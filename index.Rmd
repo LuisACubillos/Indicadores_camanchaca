@@ -1,0 +1,38 @@
+---
+title: "Indicadores biológico-pesqueros de langostino colorado y langostino amarillo"
+author: "Luis A. Cubillos (lucubillos@udec.cl)"
+date: "25 Marzo 2024"c
+always_allow_html: true
+output:
+   html_document:
+     collapsed: no
+     smooth_scroll: no
+     theme: cerulean
+     toc: yes
+     toc_depth: 4
+     toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,warning = FALSE,message = FALSE)
+```
+
+([Enlace rápido para acceder a datos](https://github.com/LuisACubillos/Indicadores_Camanchaca/tree/master/Datos))
+
+# Presentación
+
+En este informe se comunican los aspectos biológico-pesqueros de langostino colorado, amarillo y camarón nailon en las capturas de la flota de la Compañía Pesquera Camanchaca Pesca Sur, durante el año 2024. Los indicadores dicen relación con la distribución espacio temporal de la captura, esfuerzo de pesca y rendimientos de pesca. De igual modo, se comunican cambios espaciales en la estructura de tallas, talla promedio, peso promedio, madurez y ciclo reproductivo.
+
+# Boletín Técnico
+
+El acceso a los boletines técnicos
+
+
+
+# Presentaciones
+
+
+
+
+
+
