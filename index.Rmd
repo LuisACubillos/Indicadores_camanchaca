@@ -1,7 +1,7 @@
 ---
 title: "Indicadores biológico-pesqueros de langostino colorado y langostino amarillo"
 author: "Luis A. Cubillos (lucubillos@udec.cl)"
-date: "25 Marzo 2024"c
+date: "25 Marzo 2024"
 always_allow_html: true
 output:
    html_document:
@@ -25,8 +25,24 @@ En este informe se comunican los aspectos biológico-pesqueros de langostino col
 
 # Boletín Técnico
 
-El acceso a los boletines técnicos
+El acceso a los boletines técnicos y presentación de resultados
 
+ Año | Mes    | Enlace                | Presentación
+-----|--------|-----------------------|-------------
+2024 | Marzo  | Boletín Técnico 9(1)  | 
+
+
+# Informe consolidado
+
+Los informes consolidados dicen relación con el análisis anual del desempeño de la pesca de langostino colorado y langostino amarillo
+
+Año   | Informe anuales
+------|-------------------------
+2019   | Informe Consolidado 2019
+2020   | Informe Consolidado 2020
+2021  | Informe Consolidado 2021
+2022  | Informe Consolidado 2022
+2023  | Informe Consolidado 2023
 
 
 # Presentaciones
