@@ -29,7 +29,7 @@ El acceso a los boletines técnicos y presentación de resultados
 
  Año | Mes    | Enlace                | Presentación
 -----|--------|-----------------------|-------------
-2024 | Marzo  | [Boletín Técnico 9(1)](https://https://luisacubillos.github.io/Indicadores_camanchaca/#Boletín_Técnico/Boletin/Boletin_Técnico_Vol.9-N°1.html)  | 
+2024 | Marzo  | [Boletín Técnico 9(1)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/Boletin_Tecnico_Vol9-1.html)  | 
 
 
 # Informe consolidado
