@@ -33,7 +33,7 @@ knitr::include_graphics("Figuras/marzo_2024.jpeg")
 
 ## Captura,esfuerzo y rendimientos de pesca
 
-En marzo de 2024, los de lances de pesca estuvieron orientados a camarón nailon,con el 78,5 % de los lances contituidos por esta especie, luego el 1,1 % de los lances presento solo langostino colorado y el 0,6% langostino amarillo de forma exclusiva, y en el 19,6% de las capturas se presento de forma conjunta langostino amarillo y colorado (Fig. 2). 
+En marzo de 2024, los de lances de pesca estuvieron orientados a camarón nailon,con el 78,5 % de los lances constituidos por esta especie, luego el 1,1 % de los lances presentó solo langostino colorado y el 0,6% langostino amarillo de forma exclusiva, y en el 19,6% de las capturas se presentó de forma conjunta langostino amarillo y colorado (Fig. 2). 
 
 ```{r echo=FALSE}
 knitr::include_graphics("Figuras/Lances_esp-marzo_2024.jpeg")
@@ -82,7 +82,7 @@ Los indicadores biológicos dicen relación con la talla promedio de machos y he
 En las capturas de marzo 2024, el langostino colorado presentó una proporción sexual favorable a las hembras con un aporte de 61% al diferencia de langostino amarillo en donde la diferencia fue más marcada con un aporte mayor de machos de 74% con relación a las hembras, en tanto en camarón nailon predominó el aporte de hembras con un 62%. (Fig. 6).
 
 En cuanto a la talla media se capturó ejemplares de langostino colorado con una talla promedio entre 33 y 41  mm longitud cefalotórax (LC) con una talla similar entre sexos. Al comparar las tallas medias por años de capturas en langostino colorado se observa que las tallas tienden a comenzar altas durante marzo, sin embargo durante este año se presentan tallas menores y sin diferenciación entre sexos (Fig. 7).
-En langostino amarillo los machos presentaron una mayor talla en torno a los 38 mm LC al comparar las tallas medias por años de captura se observa en ambos sexos una tendencia a comenzar la temporada de pesca con tallas inferiores a  igual periodo 2023. (Tabla 2, Fig. 7).
+En langostino amarillo los machos presentaron una mayor talla en torno a los 38 mm LC, al comparar las tallas medias por años de captura se observa en ambos sexos una tendencia a comenzar la temporada de pesca con tallas inferiores a  igual periodo 2023. (Tabla 2, Fig. 7).
 En camarón nailon las tallas medias estuvieron entre los 27-28 mm presentandose tallas similares entre sexos, destacando los machos por tener el mayor rango de tallas entre los 17 y 35 mm. (Tabla 2).
 
 ##### *Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2024*
@@ -113,7 +113,7 @@ knitr::include_graphics("Figuras/GRAFICAS_TALLAS_Marzo_2024.jpg")
 ## Aspectos reproductivos
 
 Las hembras de langostino colorado durante marzo de 2024 presentaron un 20% en estado ovígero, escenario que no se registraba en esta especie desde los años 2017-2018 (Fig.8, Tabla 3). En el caso de langostino amarillo no hubo presencia de hembras en estado ovígero siguiendo la tendencia resgistrada desde el año 2017 (Fig.8, Tabla 3). 
-En camarón nailon se se presentó un % de hembras portadoras predominando las hembras sin huevo (Tabla 3).
+En camarón nailon  se presentó un 7% de hembras portadoras predominando las hembras sin huevo (Tabla 3).
 
 ```{r echo=FALSE}
 knitr::include_graphics("Figuras/Ovig_2024_marzo.jpg")
@@ -133,13 +133,13 @@ knitr::include_graphics("Figuras/Ovig_2024_marzo.jpg")
 |         |Ovígeras|0%|
 |         |Madura|0%|
 |Total n°|        |55|
-|**Camarón nailon**|Portadoras| |
-|            |Inmaduras|  |
-|Total n°|    |   |
+|**Camarón nailon**|Portadoras|7%|
+|            |Inmaduras|93%|
+|Total n°|    |1540|
 
 ## Composición de tallas
 
-La comparación de tallas de langostino colorado,  y camarón nailon no muestran diferencias significativas entre sexos (t-Student p >0,05), en el primer caso la talla media es de 33 mm Lc y en el segundo es de 28 mm  (Tabla 2, Fig. 9, 11), a diferencia de langostino amarillo este recurso si presenta diferencias significativas entre sexos siendo los machos mas grandes en relacion a las hembras (38 mm, 30 mm LC) (Tabla 2, Fig. 10). El análisis de la composición de tallas por zonas de pesca de langostino colorado mostró las tallas modales más pequeñas el caladero de Tumbes, en tanto las tallas mas grandes se presentaron al W. de Itata (Fig. 12), no se pudo efectuar este analisis en los otros recursos debido a que el muestreo biologico se realizo con muestras provenientes de un solo caladero, el caladero de Tumbes en langostino amarillo y Nugurue en el caso de camarón nailon (Fig. 10, 11).
+La comparación de tallas de langostino colorado y camarón nailon no muestran diferencias significativas entre sexos (t-Student p >0,05), en el primer caso la talla media es de 33 mm Lc y en el segundo es de 28 mm  (Tabla 2, Fig. 9, 11), a diferencia de langostino amarillo recurso que si presenta diferencias significativas entre sexos siendo los machos más grandes en relación a las hembras (38 mm, 30 mm LC) (Tabla 2, Fig. 10). El análisis de la composición de tallas por zonas de pesca de langostino colorado mostró las tallas modales más pequeñas el caladero de Tumbes, en tanto las tallas más grandes se presentaron al W. de Itata (Fig. 12), no se pudo efectuar este analisis en los otros recursos debido a que el muestreo biologico se realizó con muestras provenientes de un solo caladero, el caladero de Tumbes en langostino amarillo y Nugurue en el caso de camarón nailon (Fig. 10, 11).
 
 ```{r echo=FALSE}
 knitr::include_graphics("Figuras/frec_colorado_sexo_marzo.jpg")
@@ -198,13 +198,13 @@ knitr::include_graphics("Figuras/Fauna_Acompañante_marzo_2024.jpeg")
 
 # Resumen de los resultados 
 
-En marzo, la captura se realizó desde la region del Biobío a la región de Maule, y fue dirigida a camarón nailon con 132 lances de pesca, lográndose una captura total de 143052 kg. En tanto, langostino colorado se presentó en 47 lances y alcanzó una captura total de 107320 kg, y lagostino amarillo se capturó mayormente en forma conjunta con langostino colorado totalizando 29874 kg en 34 lances.
+En marzo, la captura se realizó desde la region del Biobío a la región de Maule, y fue dirigida a camarón nailon con 132 lances de pesca, lográndose una captura total de 143052 kg. En tanto, langostino colorado se presentó en 47 lances y alcanzó una captura total de 107320 kg, y langostino amarillo se capturó mayormente en forma conjunta con langostino colorado totalizando 29874 kg en 34 lances.
 
 En cuanto al rendimiento de pesca promedio este fue mayor en langostino colorado  y se presentó en la cuadra de Itata, en el caso de langostino amarillo fue un 90% mayor en comparación al año 2023, y el camarón nailon presentó los mayores rendimientos en Chanco y Nugurue con valores entre los 100 y 2500 kg/ha. 
 
 En cuanto a la proporción sexual en langostino colorado fue favorable a las hembras con un aporte de 61% al igual que en camarón nailon con un aporte de hembras de 62% , en tanto en langostino amarillo predominó el aporte de machos con un 74%. 
 
-En langostino colorado hubo presencia de un 20% de hembras en estado ovigero, situacion que no se observaba desde los años 2017-2018 lo que nos podria indicar un adelanto de la actividad rerpoductiva este año, hipotisis a evaluar con los resultados del proximo mes. A su vez los indicadores biologicos muestran una disminucion en la talla media tanto en langostino colorado como langostino amarillo, tallas que incluso en langostino colorado dejan de diferenciarse por sexos, hay que evaluar como continuan las tallas los siguentes meses ya que los resultados que se presentan en este informe provienen de un bajo número de muestras, como consecuencia de una captura dirigeda a camarón nailon, lo que hace que no sean del todo concluyentes.
+En langostino colorado hubo presencia de un 20% de hembras en estado ovígero, situación que no se observaba desde los años 2017-2018 lo que nos podria indicar un adelanto de la actividad reproductiva este año, hipótisis a evaluar con los resultados del proximo mes. A su vez los indicadores biologicos muestran una disminución en la talla media tanto en langostino colorado como langostino amarillo, tallas que incluso en langostino colorado dejan de diferenciarse por sexos, hay que evaluar como continúan las tallas los siguentes meses ya que los resultados que se presentan en este informe provienen de un bajo número de muestras, como consecuencia de una captura dirigida a camarón nailon, lo que hace que no sean del todo concluyentes.
 
 
 
