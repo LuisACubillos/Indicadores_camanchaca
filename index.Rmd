@@ -1,7 +1,7 @@
 ---
-title: "Indicadores biológico-pesqueros de langostino colorado y langostino amarillo"
+title: "Desempeño operacional e indicadores bio-pesqueros de la pesquería de langostino colorado y langostino amarillo"
 author: "Luis A. Cubillos (lucubillos@udec.cl)"
-date: "25 Marzo 2024"
+date: ""
 always_allow_html: true
 output:
    html_document:
@@ -17,8 +17,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE,warning = FALSE,message = FALSE)
 ```
 
-([Enlace rápido para acceder a datos](https://github.com/LuisACubillos/Indicadores_Camanchaca/tree/master/Datos))
-
 # Presentación
 
 En este informe se comunican los aspectos biológico-pesqueros de langostino colorado, amarillo y camarón nailon en las capturas de la flota de la Compañía Pesquera Camanchaca Pesca Sur, durante el año 2024. Los indicadores dicen relación con la distribución espacio temporal de la captura, esfuerzo de pesca y rendimientos de pesca. De igual modo, se comunican cambios espaciales en la estructura de tallas, talla promedio, peso promedio, madurez y ciclo reproductivo.
@@ -29,7 +27,7 @@ El acceso a los boletines técnicos y presentación de resultados
 
  Año | Mes    | Enlace                | Presentación
 -----|--------|-----------------------|-------------
-2024 | Marzo  | [Boletín Técnico 9(1)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/Boletin_Tecnico_Vol9-1.html)  | 
+2024 | Marzo  | [Boletín Técnico 9(1)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/Boletin_Tecnico_Vol9-1.html)  | [Canvas PPT](https://www.canva.com/design/DAGBTNBLLBY/mmckJBRb2x0j4DZdxykgwQ/edit?utm_content=DAGBTNBLLBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 # Informe consolidado
@@ -42,10 +40,10 @@ Año   | Informe anuales
 2020   | Informe Consolidado 2020
 2021  | Informe Consolidado 2021
 2022  | Informe Consolidado 2022
-2023  | Informe Consolidado 2023
+2023  | [Informe Consolidado 2023](https://luisacubillos.github.io/Indicadores_camanchaca/Reportes/InformeConsolidado_2023.pdf)
 
 
-# Presentaciones
+
 
 
 
