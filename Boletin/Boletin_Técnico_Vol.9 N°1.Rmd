@@ -1,0 +1,210 @@
+---
+title: "Indicadores biológico-pesqueros de langostino colorado, langostino amarillo y camarón nailon"
+subtitle: "Convenio EPOMAR UdeC – Camanchaca Pesca Sur"
+author: " "
+date: "25 Marzo 2024"
+always_allow_html: true
+output:
+   html_document: 
+     collapsed: no
+     smooth_scroll: no
+     theme: cosmo
+     toc: yes
+     toc_depth: 4
+     toc_float: yes
+     long: "es-ES"
+     fig_caption: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,warning = FALSE,message = FALSE)
+```
+
+# Aspectos Pesqueros
+## Actividad pesquera
+
+Las operaciones de pesca realizadas durante junio cubrieron los caladeros ubicados desde la región del Bío-Bío a la región de Maule, destacando los caladeros del weste de Itata, Chanco y Nugurue (Fig. 1). 
+
+```{r echo=FALSE, fig.width=4,fig.height=5}
+knitr::include_graphics("Figuras/marzo_2024.jpeg")
+```
+
+##### *Figura 1. Distribución espacial del total de lances de pesca realizados durante marzo de 2024.*
+
+## Captura,esfuerzo y rendimientos de pesca
+
+En marzo de 2024, los de lances de pesca estuvieron orientados a camarón nailon,con el 78,5 % de los lances contituidos por esta especie, luego el 1,1 % de los lances presento solo langostino colorado y el 0,6% langostino amarillo de forma exclusiva, y en el 19,6% de las capturas se presento de forma conjunta langostino amarillo y colorado (Fig. 2). 
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/Lances_esp-marzo_2024.jpeg")
+```
+
+#####  *Figura 2. Distribución espacial de los lances de pesca orientados a langostino colorado, langostino amarillo y camarón nailon durante marzo de 2024.*
+
+Durante marzo las capturas por lance de langostino colorado fluctuaron entre 48 y 5472 kg, totalizando una captura de 107320 kg. Se logró un promedio de 2283 kg por lance de pesca, desplegando 54 horas de arrastre (ha) y un rendimiento de pesca de 2003 kg/ha (Tabla 1).
+En cuanto a langostino amarillo se registro en 34 lances con una captura total de 29874 kg y un rendimiento de 787 kg/ha (Tabla 1) y el camarón nailon destacó con las mayores capturas estando presente en 132 lances con un total de 143052 kg.
+
+##### *Tabla 1. Indicadores operacionales de la pesquería de langostino colorado, langostino amarillo y camarón nailon 2024.*
+
+|**Recurso**|**Mes**|**Número de lances(n)**|**Captura(kg)**|**Captura por lances(kg/n)**|**Hora de arrastre(ha)**|**Rendimiento(kg/ha)**|**Profundidad promedio de fondo(m)**| 
+|:--------:|:--------:|:-------:|:-------:|:-------:|:-------:|:------:|:--------:|
+|**L.colorado**|marzo|47|107320|2283,4|53,5|2002,8|192|
+|**L.amarillo**|marzo|34|29874|878,6|37,9|787,1|191|
+|**Camarón**|marzo|132|143052|1083,7|353,6|404,4|343|
+
+El rendimiento de pesca de langostino colorado fluctúo entre 42 y 6221 kg/ha, con una moda en 1674 kg/ha. En cambio, el esfuerzo de pesca fluctúo entre 23 y 116 minutos, con una mayor frecuencia en 68 minutos (Fig. 3). En cuanto a langostino amarillo, presentó un rendimiento entre los 25 y 5510 kg/ha, y el esfuerzo tuvo una mayor frecuencia en 67 min (Fig. 3), y el camarón nailon presentó un rendimiento medio de 336 kg/ha con un esfuerzo entorno a las 2 horas 40 minutos.
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/ESF_REND_MAR.png")
+```
+
+#####  *Figura 3. Distribución de frecuencia del esfuerzo de pesa, en términos de duración del lance en horas de arrastre (ha) (A) y del rendimiento de pesca (kg/ha) (B), de langostino colorado, langostino amarillo y camarón nailon en marzo de 2024.*
+
+En cuanto a la distribución espacial del rendimiento de pesca durante el mes de marzo se destacó una zona de alto rendimiento de langostino colorado, localizada en la cuadra del W. de Itata, con rendimientos entre los 2500 y >7500 kg/ha (Fig. 4). En el caso de langostino amarillo durante marzo, se capturó en su mayoría en conjunto con langostino colorado y presentó los mayores rendimientos en la cuadra del W. de Itata, rendimientos entre los 2500 y 7500 kg/ha (Fig. 4) rendimiento mayor en un  90% con relación con igual periodo 2023, en cuanto a camarón nailon este recurso presentó los mayores rendimientos en Chanco y Nugurue con valores entre los 100 y 2500 kg/ha. (Fig. 5)
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/CPUE_marzo_2024.jpeg")
+```
+
+#####  *Figura 4. Distribución del rendimiento de pesca (kg/ha) de langostino colorado, langostino amarillo y camarón nailon en marzo de 2024.*
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/ren_caladeros_marzo.jpg")
+```
+
+#####  *Figura 5. Rendimiento de pesca (captura por hora de arrastre) anual de langostino colorado (A), langostino amarillo (B) y camarón nailon (C), en los caladeros visitados de en la unidad de pesquería sur, marzo de 2024.*
+
+# Aspectos biológicos
+Los indicadores biológicos dicen relación con la talla promedio de machos y hembras, la proporción sexual, la estructura de tallas, el estado de madurez de las hembras ovígeras y la proporción de hembras ovígeras. Los datos fueron obtenidos a partir de muestreos aleatorios diarios de ejemplares capturados en zonas de pesca visitadas por la flota. El tamaño mínimo de muestra fue de 300 ejemplares, a los que se les midió la longitud del cefalotórax utilizando un pie de metro (0,01 mm de precisión). Los ejemplares además fueron pesados (0,01 gramos), indicándose si se trataba de ejemplares completos o incompletos. Se determinó el sexo, y en el caso de las hembras se registraron las hembras portadoras de huevos (ovígeras) y el estado de madurez de los huevos según escala de 4 puntos de Palma y Arana (1997).
+
+## Proporción sexual y talla promedio
+
+En las capturas de marzo 2024, el langostino colorado presentó una proporción sexual favorable a las hembras con un aporte de 61% al diferencia de langostino amarillo en donde la diferencia fue más marcada con un aporte mayor de machos de 74% con relación a las hembras, en tanto en camarón nailon predominó el aporte de hembras con un 62%. (Fig. 6).
+
+En cuanto a la talla media se capturó ejemplares de langostino colorado con una talla promedio entre 33 y 41  mm longitud cefalotórax (LC) con una talla similar entre sexos. Al comparar las tallas medias por años de capturas en langostino colorado se observa que las tallas tienden a comenzar altas durante marzo, sin embargo durante este año se presentan tallas menores y sin diferenciación entre sexos (Fig. 7).
+En langostino amarillo los machos presentaron una mayor talla en torno a los 38 mm LC al comparar las tallas medias por años de captura se observa en ambos sexos una tendencia a comenzar la temporada de pesca con tallas inferiores a  igual periodo 2023. (Tabla 2, Fig. 7).
+En camarón nailon las tallas medias estuvieron entre los 27-28 mm presentandose tallas similares entre sexos, destacando los machos por tener el mayor rango de tallas entre los 17 y 35 mm. (Tabla 2).
+
+##### *Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2024*
+
+|   |Mes|Sexo|n|LC(mm)|DE(mm)|Mínimo(mm)|Máximo(mm)|
+|----|---|----|-|------|------|----------|----------|
+|**L.colorado**|marzo|hembra|606|33,4|2,42|27,4|40,3|
+|         |    |macho|386|33,4|2,58|28,2|41,4|
+|**L.amarillo**|marzo|hembra|55|30,8|2,72|25,4|38,5|
+|         |    |macho|160|38,3|2,92|30,1|48,1|
+|**Camarón**|marzo|hembra|1540|28,2|2,74|19,9|34,9|
+|      |     |macho|957|27,7|2,81|17,3|35,3|
+
+
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/Proporcion_sexual_marzo_2024.png")
+```
+
+#####  *Figura 6. Proporción sexual de langostino colorado (A), langostino amarillo (B) y camarón nailon durante marzo de 2024*
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/GRAFICAS_TALLAS_Marzo_2024.jpg")
+```
+
+#####  *Figura 7. Talla promedio (LC, mm) de langostino colorado y langostino amarillo por sexo, en el periodo enero 2016 a marzo de 2024*
+
+## Aspectos reproductivos
+
+Las hembras de langostino colorado durante marzo de 2024 presentaron un 20% en estado ovígero, escenario que no se registraba en esta especie desde los años 2017-2018 (Fig.8, Tabla 3). En el caso de langostino amarillo no hubo presencia de hembras en estado ovígero siguiendo la tendencia resgistrada desde el año 2017 (Fig.8, Tabla 3). 
+En camarón nailon se se presentó un % de hembras portadoras predominando las hembras sin huevo (Tabla 3).
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/Ovig_2024_marzo.jpg")
+```
+
+#####  *Figura 8. Comparación de hembras ovígeras de langostino colorado (panel superior) y langostino amarillo (panel inferior), entre los años 2017 a marzo del año 2024*
+
+##### *Tabla 2. Porcentaje de hembras ovígeras y hembras maduras de langostino colorado y amarillo UPS 2024, y de hembras potadoras e inmaduras de camarón nailon*
+
+|Recurso|Estado|marzo|
+|-------|------|-----|
+|**L.colorado**|Normal|80%|
+|          |Ovígeras|20%|
+|          |Madura|0%|
+|Total n°|       |606|
+|**L.amarillo**|Normal|100%|
+|         |Ovígeras|0%|
+|         |Madura|0%|
+|Total n°|        |55|
+|**Camarón nailon**|Portadoras| |
+|            |Inmaduras|  |
+|Total n°|    |   |
+
+## Composición de tallas
+
+La comparación de tallas de langostino colorado,  y camarón nailon no muestran diferencias significativas entre sexos (t-Student p >0,05), en el primer caso la talla media es de 33 mm Lc y en el segundo es de 28 mm  (Tabla 2, Fig. 9, 11), a diferencia de langostino amarillo este recurso si presenta diferencias significativas entre sexos siendo los machos mas grandes en relacion a las hembras (38 mm, 30 mm LC) (Tabla 2, Fig. 10). El análisis de la composición de tallas por zonas de pesca de langostino colorado mostró las tallas modales más pequeñas el caladero de Tumbes, en tanto las tallas mas grandes se presentaron al W. de Itata (Fig. 12), no se pudo efectuar este analisis en los otros recursos debido a que el muestreo biologico se realizo con muestras provenientes de un solo caladero, el caladero de Tumbes en langostino amarillo y Nugurue en el caso de camarón nailon (Fig. 10, 11).
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/frec_colorado_sexo_marzo.jpg")
+```
+
+#####  *Figura 9. Composición de tallas de langostino colorado entre sexos, en marzo de 2024*
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/frec_amarillo_zona_marzo.jpg")
+```
+
+#####  *Figura 10. Composición de tallas de langostino amarillo entre sexos, en marzo de 2024*
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/LC_ZONAS_CAMARON_marzo.jpg")
+```
+
+#####  *Figura 11. Composición de tallas de camarón nailon entre sexos, en marzo de 2024*
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/frec_colorado_zona_marzo.jpg")
+```
+
+#####  *Figura 12. Composición de tallas de langostino colorado en la UPS por zonas de pesca en marzo de 2024*
+
+## Relación longitud-peso
+
+Con el objeto de comparar la relación longitud-peso entre machos y hembras, se utilizó ejemplares que fueron pesados completos, es decir, con todas sus extremidades. El mejor modelo para la relación longitud-peso fue con una intersección fija y diferentes pendientes entre sexos, el peso esperado más alto a una talla determinada se presentó en hembras tanto en langostino colorado como camarón nailon y en machos en el caso de langostino amarillo (Fig. 13).
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/RLP_marzo_2024.jpg")
+```
+
+#####  *Figura 13. Relación longitud-peso de langostino colorado (A), langostino amarillo (B) y camarón nailon (C), por sexos, en marzo 2024.*
+
+
+## Fauna acompañante
+
+Las operaciones de pesca efectuadas durante el durante marzo de 2024 por la flota de Camanchaca Pesca Sur, muestran la presencia del pejerrata en las zonas de Chanco, Nugurue, w. de Itata y w. de San Vicente (Fig. 14), siendo la ocurrencia de esta especie, del total de las operaciones de pesca sobre langostino colorado y langostino amarillo, un 2,35% con 6745 kg. 
+
+En cuanto a la ocurrencia de otros recursos como fauna acompañante de langostino colorado y amarillo destaca la merluza en los caladeros de Chanco y Nugurue con valores entre los 5 y 25 kg/ha y el Lenguado en el caladero de Itata con una captura de entre 15 y 50 kg/ha (Fig. 15).
+Tambien hay presencia de otros recursos como la Jaiba Paco y Jaiba Limón pero en menor cantidad (en termino de unidades por hora de arrastre) como se muestra en la Figura 15.
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/pejerrata_marzo_2024_zoom.jpeg")
+```
+
+#####  *Figura 14. Distribución de los lances de pesca con captura de pejerrata en las capturas de camarón nailon, langostino colorado y langostino amarillo, y la fracción de pejerrata en las capturas totales, desde marzo  año 2024.*
+
+
+```{r echo=FALSE}
+knitr::include_graphics("Figuras/Fauna_Acompañante_marzo_2024.jpeg")
+```
+
+#####  *Figura 15. Distribución espacial y abundancia de la fauna acompañante en los lances de pesca orientados a langostinos colorado y langostinos amarillos por la flota arrastrera de Camanchaca Pesca Sur, marzo de 2024*
+
+# Resumen de los resultados 
+
+En marzo, la captura se realizó desde la region del Biobío a la región de Maule, y fue dirigida a camarón nailon con 132 lances de pesca, lográndose una captura total de 143052 kg. En tanto, langostino colorado se presentó en 47 lances y alcanzó una captura total de 107320 kg, y lagostino amarillo se capturó mayormente en forma conjunta con langostino colorado totalizando 29874 kg en 34 lances.
+
+En cuanto al rendimiento de pesca promedio este fue mayor en langostino colorado  y se presentó en la cuadra de Itata, en el caso de langostino amarillo fue un 90% mayor en comparación al año 2023, y el camarón nailon presentó los mayores rendimientos en Chanco y Nugurue con valores entre los 100 y 2500 kg/ha. 
+
+En cuanto a la proporción sexual en langostino colorado fue favorable a las hembras con un aporte de 61% al igual que en camarón nailon con un aporte de hembras de 62% , en tanto en langostino amarillo predominó el aporte de machos con un 74%. 
+
+En langostino colorado hubo presencia de un 20% de hembras en estado ovigero, situacion que no se observaba desde los años 2017-2018 lo que nos podria indicar un adelanto de la actividad rerpoductiva este año, hipotisis a evaluar con los resultados del proximo mes. A su vez los indicadores biologicos muestran una disminucion en la talla media tanto en langostino colorado como langostino amarillo, tallas que incluso en langostino colorado dejan de diferenciarse por sexos, hay que evaluar como continuan las tallas los siguentes meses ya que los resultados que se presentan en este informe provienen de un bajo número de muestras, como consecuencia de una captura dirigeda a camarón nailon, lo que hace que no sean del todo concluyentes.
+
+
+
