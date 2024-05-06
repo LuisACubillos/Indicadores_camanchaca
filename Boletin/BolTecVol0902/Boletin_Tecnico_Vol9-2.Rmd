@@ -19,6 +19,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 # Resumen
 
 En abril, la captura se realizó desde la region del Biobío a la región de Maule, y fue dirigida a langostino colorado con 276 lances de pesca, lográndose una captura total de 719014 kg. En tanto, langostino amarillo se presentó en 223 lances de pesca solo en conjunto con langostino colorado y  alcanzó una captura total de 106812 kg.
