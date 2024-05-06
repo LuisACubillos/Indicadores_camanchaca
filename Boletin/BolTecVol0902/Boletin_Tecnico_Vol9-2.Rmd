@@ -1,6 +1,6 @@
 ---
-title: "Indicadores biológico-pesqueros de langostino colorado y langostino amarillo"
-subtitle: "Convenio EPOMAR UdeC – Camanchaca Pesca Sur"
+title: "Indicadores biológico-pesqueros de langostino colorado y langostino amarillo (Abril 2024)"
+subtitle: "Bol. Tec 9(2) | EPOMAR UdeC – Camanchaca Pesca Sur"
 author: " "
 date: "2 Mayo 2024"
 always_allow_html: true
