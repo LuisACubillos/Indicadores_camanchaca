@@ -1,6 +1,6 @@
 ---
 title: "Indicadores biológico-pesqueros de langostino colorado, langostino amarillo y camarón nailon (Marzo 2024)"
-subtitle: "Bol. Tec 9(1) | EPOMAR UdeC – Camanchaca Pesca Sur"
+subtitle: "Bol. Tec 9(1) | EPOMAR UdeC – Camanchaca SA"
 author: " "
 date: "25 Marzo 2024"
 always_allow_html: true
