@@ -20,6 +20,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+[Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
+
 # Resumen
 
 En abril pasado, las operaciones de pesca se realizaron entre la region del Biobío y la región de Maule. La especie objetivo fue el langostino colorado, con 276 lances de pesca y una captura de 719014 kg. En tanto, la captura de langostino amarillo se presentó en 223 lances de pesca orientados al langostino colorado, lográndose 106812 kg.
@@ -212,5 +214,7 @@ knitr::include_graphics("Figuras/Fauna_Acompañante_abril_2024_v1.jpeg")
 #####  *Figura 15. Distribución espacial y abundancia de la fauna acompañante en los lances de pesca orientados a langostinos colorado y langostinos amarillos por la flota arrastrera de Camanchaca Pesca Sur, abril 2024*
 
 
+
+[Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
 
 
