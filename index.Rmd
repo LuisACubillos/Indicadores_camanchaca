@@ -1,5 +1,6 @@
 ---
 title: "Desempeño operacional e indicadores bio-pesqueros de la pesquería de langostino colorado y langostino amarillo"
+subtitle: "Convenio EPOMAR UdeC – Camanchaca SA"
 author: "Luis A. Cubillos (lucubillos@udec.cl)"
 date: ""
 always_allow_html: true
@@ -17,6 +18,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE,warning = FALSE,message = FALSE)
 ```
 
+
 # Presentación
 
 En este informe se comunican los aspectos biológico-pesqueros de langostino colorado, amarillo y camarón nailon en las capturas de la flota de la Compañía Pesquera Camanchaca Pesca Sur, durante el año 2024. Los indicadores dicen relación con la distribución espacio temporal de la captura, esfuerzo de pesca y rendimientos de pesca. De igual modo, se comunican cambios espaciales en la estructura de tallas, talla promedio, peso promedio, madurez y ciclo reproductivo.
@@ -27,8 +29,9 @@ El acceso a los boletines técnicos y presentación de resultados
 
  Año | Mes    | Enlace                | Presentación
 -----|--------|-----------------------|-------------
-2024 | Marzo  | [Boletín Técnico 9(1)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/Boletin_Tecnico_Vol9-1.html)  | [Canvas PPT](https://www.canva.com/design/DAGBTNBLLBY/mmckJBRb2x0j4DZdxykgwQ/edit?utm_content=DAGBTNBLLBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+2024 | Marzo  | [Boletín Técnico 9(1)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0901/Boletin_Tecnico_Vol9-1.html)  | [Canvas PPT](https://www.canva.com/design/DAGBTNBLLBY/mmckJBRb2x0j4DZdxykgwQ/edit?utm_content=DAGBTNBLLBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+2024 | Abril  | [Boletín Técnico 9(2)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0902/Boletin_Tecnico_Vol9-2.html) | [Canvas PPT](https://www.canva.com/design/DAGEdGE-tN0/fnLEdhuJwZGOvlWAqpBMpA/edit?utm_content=DAGEdGE-tN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+2024 | Mayo   | [Boletín Técnico 9(3)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0903/Boletin_Tecnico_Vol9-3.html) | [Canvas PPT](https://www.canva.com/design/DAGH-zGuC-s/icAxdorOqdsTnH2fR34Oew/edit?utm_content=DAGH-zGuC-s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Informe consolidado
 
