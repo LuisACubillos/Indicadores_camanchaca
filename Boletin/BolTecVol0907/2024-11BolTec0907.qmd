@@ -1,6 +1,6 @@
 ---
 title: "Indicadores biológico-pesqueros de langostino colorado, langostino amarillo y camarón nailon (octubre 2024)"
-author: "Bol.Tec.9(7)|Lab.EPOMAR Udec-Camanchaca S.A."
+author: "Bol.Tec.9(7)|Lab.EPOMAR Udec-Crustáceos Sur S.A."
 format: html
 toc: true
 ---
@@ -54,7 +54,7 @@ knitr::include_graphics("Figuras/10_TORTAS_octubre_2024.jpeg")
 
 Durante octubre, las capturas de langostino colorado totalizaron 651 toneladas, con un promedio de 2921 kg por lance de pesca. Se realizaron 486 horas de arrastre (ha), lo que resultó en un rendimiento de pesca de 1341 kg/ha (Tabla 1). En cuanto al langostino amarillo, se registraron 112 lances con una captura total de 179 toneladas y un rendimiento de 804 kg/ha (Tabla 1). Por otro lado, el camarón nailon fue capturado en 9 lances, alcanzando una captura total de 340 kg y un rendimiento de 17 kg/ha.
 
-##### *Tabla 1. Indicadores operacionales de la pesquería de langostino colorado, langostino amarillo y camarón nailon 2024.*
+*Tabla 1. Indicadores operacionales de la pesquería de langostino colorado, langostino amarillo y camarón nailon 2024.*
 
 |**Recurso**|**Mes**|**N° de lances(n)**|**Cap. (kg)**|**Cap.lances (kg/n)**|**h arrast.(ha)**|**Rend. (kg/ha)**|**Prof.de fondo(m)**| 
 |--------|-------|-------|-------|---------|-------|------|-------|
@@ -114,7 +114,7 @@ knitr::include_graphics("Figuras/proporcion_sexual_octubre.jpg")
 
 En cuanto a la talla media, se capturaron ejemplares de langostino colorado con una longitud cefalotórax (LC) promedio que oscila entre 28 y 47 mm, siendo los machos los que presentan las tallas más grandes. Al comparar las tallas medias a lo largo de los años, se observa que en marzo suelen comenzar con valores altos; sin embargo, este año se registraron tallas menores y sin diferenciación sexual. Pero a medida que ha avanzado la temporada de pesca, esta situación ha ido cambiando, a salvo en el mes de junio, las tallas han tendido a aumentar, manteniéndose por encima de los 36 mm LC desde mayo. En cuanto a langostino amarillo si bien este año no se han realizado muestreos biologicos de forma periodica este mes se regsitro un aumento en la talla media pero continúan en torno a las tallas medias historicas (Fig. 8, Tabla 2).
 
-##### *Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2024*
+*Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2024*
 
 |   |**Mes**|**Sexo**|**n**|**LC(mm)**|**DE(mm)**|**Mín.(mm)**|**Máx.(mm)**|
 |----------|------|------|------|------|------|-------|-------|
@@ -157,7 +157,7 @@ knitr::include_graphics("Figuras/GRAFICAS_TALLAS_2024_octubre.jpg")
 
 En octubre de 2024, el 69% de las hembras de langostino colorado se encontraban en estado ovígero, manteniéndose por encima del 50% desde abril. En el caso del langostino amarillo, el 78% de las hembras estaba en estado ovígero, mientras que un 15% se encontraba en estado maduro (Fig. 9 y Tabla 3).
 
-##### *Tabla 2. Porcentaje de hembras ovígeras y hembras maduras de langostino colorado y amarillo UPS 2024, y de hembras potadoras e inmaduras de camarón nailon*
+*Tabla 3. Porcentaje de hembras ovígeras y hembras maduras de langostino colorado y amarillo UPS 2024, y de hembras potadoras e inmaduras de camarón nailon*
 
 | **Recurso**    | **Estado**   | **mar.** | **abr.** | **may.** | **jun.** | **jul.** |**ago.**|**oct.**|
 |-------------|--------- |--------|--------|--------|--------|--------|--------|--------|
@@ -239,12 +239,6 @@ knitr::include_graphics("Figuras/boxplot_cpue_JAIBAS2023-2024.png")
 
 
 [Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
-
-
-
-
-
-
 
 
 
