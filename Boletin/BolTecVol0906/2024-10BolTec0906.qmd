@@ -1,0 +1,211 @@
+---
+title: "Indicadores biológico-pesqueros de langostino colorado y langostino amarillo (agosto 2024)"
+author: "Bol.Tec.9(6)|Lab.EPOMAR Udec-Camanchaca S.A."
+format: html
+toc: true
+---
+
+\newpage
+
+# 1 Resumen
+
+Durante el mes de agosto, se llevaron a cabo capturas en la región del Biobío hasta la región de Valparaíso, enfocándose principalmente en el langostino colorado. Se realizaron un total de 223 lances, que resultaron en una captura total de 711 toneladas. Por otro lado, el langostino amarillo fue registrado en 100 lances totalizando una captura de 88 toneladas; sin embargo, solo el 2.5% de estas capturas correspondió exclusivamente a esta especie, todas realizadas en el caladero de la isla Santa María.
+
+Además, durante este mes se observó la presencia del camarón nailon solo 6 lances, donde fue capturado junto con langostino colorado y amarillo, alcanzando un peso total de 320 kg. En términos de rendimiento pesquero promedio, este fue mayor para el langostino colorado, destacándose en la cuadra de Carranza. Por su parte, el mejor rendimiento del langostino amarillo se registró en los caladeros de Constitución y la isla Santa María.
+
+En lo que respecta a la proporción sexual, en el langostino colorado se observó una predominancia de hembras, que representaron el 59% de la muestra, de las cuales el 86% se encontraban en estado ovígero.
+
+Por otro lado, los indicadores biológicos muestran un leve aumento en las tallas medias del langostino colorado en comparación con el mes anterior, manteniéndose por encima de los 36 mm de longitud media cephalotorácica desde el mes de mayo.No se logró obtener información sobre el langostino amarillo durante este mes debido a la ausencia de muestreo biológico.
+
+En lo que respecta a la ocurrencia del pejerrata como fauna acompañante, este representó únicamente el 0.2% de las capturas, con un total de 160 kg registrados en los caladeros de Nugurue, Itata y la isla Santa María.
+
+\newpage
+
+# 2 Aspectos Pesqueros
+
+## 2.1 Actividad pesquera
+
+Las operaciones de pesca realizadas durante agosto cubrieron los caladeros ubicados desde la región del Biobío a la región de Valparaíso, destacando los caladeros de Pta. Toro, Iloca, Carranza, Nugurue y la Isla Sta. María (Fig. 1).
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%", fig.cap="Distribución espacial del total de lances de pesca realizados durante agosto de 2024",fig.align="center" }
+knitr::include_graphics("Figuras/08_agosto2024.jpeg")
+```
+
+## 2.2 Captura,esfuerzo y rendimientos de pesca
+
+En agosto de 2024, las actividades de pesca se centraron en el langostino colorado, que representó el 97 % de los lances realizados. De estos, el 55 % consistió exclusivamente en langostino colorado, mientras que el 2.5 % correspondió únicamente al langostino amarillo. Además, en el 42 % de las capturas se registró la presencia conjunta de langostino amarillo y colorado, y en un 2.5 % se capturaron langostinos de ambas especies junto con camaron nailon (Fig. 2). En cuanto a las capturas de estas especies por zonas de pesca en todos los caladeros (exceptuando el del W. de la isla Sta. María), predominó el langostino colorado, y el langostino amarillo se presentó mayormente en el W. de la isla Sta. María, Constitución y Punta Toro en donde representó entre un 100%, 45% y 25% del total extraído (Fig. 3).
+
+\newpage
+
+```{r echo=FALSE, fig.width=3,fig.height=3,out.width="90%",fig.cap="Distribución espacial de los lances de pesca orientados a langostino colorado, langostino amarillo y camarón nailon durante agosto de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/08_Lcol-lam-cam-agosto_2024.jpeg")
+```
+
+\newpage
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="60%",fig.cap="Distribución espacial de la composición de las capturas durante agosto de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/08_tortas_agosto_2024.jpeg")
+```
+
+\newpage
+
+Durante agosto, las capturas de langostino colorado totalizaron 711 toneladas, con un promedio de 3189 kg por lance de pesca. Se realizaron 508 horas de arrastre (ha), lo que resultó en un rendimiento de pesca de 1400 kg/ha (Tabla 1). En cuanto al langostino amarillo, se registraron 100 lances con una captura total de 88 toneladas y un rendimiento de 390 kg/ha (Tabla 1). Por otro lado, el camarón nailon fue capturado en 6 lances, alcanzando una captura total de 320 kg y un rendimiento de 24 kg/ha.
+
+##### *Tabla 1. Indicadores operacionales de la pesquería de langostino colorado, langostino amarillo y camarón nailon 2024.*
+
+|**Recurso**|**Mes**|**N° de lances(n)**|**Cap. (kg)**|**Cap.lances (kg/n)**|**h arrast.(ha)**|**Rend. (kg/ha)**|**Prof.de fondo(m)**| 
+|--------|-------|-------|-------|---------|-------|------|-------|
+| **L.colorado** |  marzo  |         47          |    107320    |            2283,4            |         53,5          |      2002,8      |             192             |
+|                |  abril  |         276         |    719014    |            2605,1            |         382,5         |      1879,5      |             190             |
+|                |  mayo   |         250         |    797434    |             3190             |          451          |       1769       |             168             |
+|                |  junio  |         150         |    508506    |             3390             |          305          |       1667       |             163             |
+|                |  julio  |         229         |    705028    |             3079             |          495          |       1424       |             161             |
+|                | agosto  |         223         |    711232    |             3189             |          508          |       1400       |             166             |
+| **L.amarillo** |  marzo  |         34          |    29874     |            878,6             |         37,9          |      787,1       |             191             |
+|                |  abril  |         223         |    106812    |            478,9             |         308,5         |      346,1       |             192             |
+|                |  mayo   |         101         |    38540     |             382              |          172          |       223        |             176             |
+|                |  junio  |         68          |    15422     |             227              |          146          |       106        |             165             |
+|                |  julio  |         102         |    125646    |             1232             |          207          |       606        |             168             |
+|                | agosto  |         100         |    88907     |             889              |          228          |       390        |             176             |
+|  **Camarón**   |  marzo  |         132         |    143052    |            1083,7            |         353,6         |      404,4       |             343             |
+|                |  mayo   |         30          |    51236     |             1708             |          52           |       994        |             317             |
+|                |  julio  |         10          |     880      |              88              |          21           |        43        |             170             |
+|                | agosto  |          6          |     320      |              53              |          13           |        24        |             191             |
+
+El rendimiento de pesca de langostino colorado fluctúo entre 53 y 6222 kg/ha, con una moda en 1500 kg/ha. En cambio, el esfuerzo de pesca fluctúo entre 25 y 1329 minutos, con una mayor frecuencia en 2 horas 17 minutos (Fig. 4). En cuanto a langostino amarillo, presentó un rendimiento entre los 11 y 2909 kg/ha, y el esfuerzo tuvo una mayor frecuencia en 2 horas 17 minutos (Fig. 4).
+
+En cuanto a la distribución espacial del rendimiento de pesca durante el mes de agosto, destacaron los caladeros de Carranza, Iloca y Nugurue donde las capturas oscilaron entre 1000 y 3500 kg/ha (Fig. 5 y 6). Para el langostino amarillo, los mayores rendimientos se registraron en la cuadra de Constitución y al weste de la isla Santa María, con capturas también entre 1500 y 2500 kg/ha (Fig. 5 y 6). En contraste, el camarón nailon mostró bajos rendimientos, por debajo de los 25 kg/ha. (Fig. 5).
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="90%",fig.cap="Distribución de frecuencia del esfuerzo de pesa, en términos de duración del lance en horas de arrastre (ha) (A) y del rendimiento de pesca (kg/ha) (B), de langostino colorado, langostino amarillo y camarón nailon, desde marzo a agosto de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/esf_rend-ago_2024.png")
+```
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="90%",fig.cap="Distribución del rendimiento de pesca (kg/ha) de langostino colorado, langostino amarillo y camarón nailon en agosto de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/08_CPUE_lcol-Lam-agosto_2024.jpeg")
+```
+
+\newpage
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="70%",fig.cap="Rendimiento de pesca (captura por hora de arrastre) de langostino colorado (A), langostino amarillo (B) en los caladeros visitados durante agosto 2024",fig.align="center"}
+knitr::include_graphics("Figuras/caladeros_agosto.jpg")
+```
+
+\newpage
+
+# 3 Aspectos biológicos
+
+Los indicadores biológicos dicen relación con la talla promedio de machos y hembras, la proporción sexual, la estructura de tallas, el estado de madurez de las hembras ovígeras y la proporción de hembras ovígeras. Los datos fueron obtenidos a partir de muestreos aleatorios diarios de ejemplares capturados en zonas de pesca visitadas por la flota. El tamaño mínimo de muestra fue de 300 ejemplares, a los que se les midió la longitud del cefalotórax utilizando un pie de metro (0,01 mm de precisión). Los ejemplares además fueron pesados (0,01 gramos), indicándose si se trataba de ejemplares completos o incompletos. Se determinó el sexo, y en el caso de las hembras se registraron las hembras portadoras de huevos (ovígeras) y el estado de madurez de los huevos según escala de 4 puntos. Durante este mes no se presenta información de langostino amarillo debido a que no hubo muestreo biologico de esta especie.
+
+## 3.1 Proporción sexual y talla promedio
+
+En las capturas de agosto de 2024, el langostino colorado mostró una proporción sexual favorable hacia las hembras, con un aporte del 59 %. (Fig. 7 y Tabla 2).
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="60%",fig.cap="Proporción sexual de langostino colorado durante marzo a agosto 2024",fig.align="center"}
+knitr::include_graphics("Figuras/LCOL_proporcion_Agosto .jpg")
+```
+
+\newpage
+
+En cuanto a la talla media, se capturaron ejemplares de langostino colorado con una longitud cefalotórax (LC) promedio que oscila entre 20 y 47 mm, siendo los machos los que presentan las tallas más grandes. Al comparar las tallas medias a lo largo de los años, se observa que en marzo suelen comenzar con valores altos; sin embargo, este año se registraron tallas menores y sin diferenciación sexual. Pero a medida que ha avanzado la temporada de pesca, esta situación ha ido cambiando, y salvo en el mes de junio, las tallas han tendido a aumentar, manteniéndose por encima de los 36 mm LC desde mayo (Fig. 8, Tabla 2)
+
+##### *Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2024*
+
+|   |**Mes**|**Sexo**|**n**|**LC(mm)**|**DE(mm)**|**Mín.(mm)**|**Máx.(mm)**|
+|----------|------|------|------|------|------|-------|-------|
+| **L.colorado** | marzo   | hembra   | 606   | 33,4       | 2,42       | 27,4           | 40,3           |
+|                |         | macho    | 386   | 33,4       | 2,58       | 28,2           | 41,4           |
+|                | abril   | hembra   | 2542  | 35,1       | 2,43       | 28,5           | 46,0           |
+|                |         | macho    | 1928  | 37,1       | 3,17       | 28,8           | 47,2           |
+|                | mayo    | hembras  | 2588  | 37,1       | 2,16       | 29,0           | 44,7           |
+|                |         | macho    | 1662  | 39,3       | 2,67       | 28,5           | 46,3           |
+|                | junio   | hembras  | 2611  | 36,2       | 2,34       | 28,5           | 43,0           |
+|                |         | macho    | 1139  | 36,8       | 3,14       | 27,0           | 44,8           |
+|                | julio   | hembras  | 3297  | 36,7       | 2,48       | 22,5           | 47,3           |
+|                |         | macho    | 1696  | 38,1       | 3,00       | 23,2           | 46,0           |
+|                | agosto  | hembras  | 3450  | 37.3       | 2.32       | 20.6           | 45.6           |
+|                |         | macho    | 2354  | 38.3       | 2.98       | 24.7           | 46.7           |
+| **L.amarillo** | marzo   | hembra   | 55    | 30,8       | 2,72       | 25,4           | 38,5           |
+|                |         | macho    | 160   | 38,3       | 2,92       | 30,1           | 48,1           |
+|                | abril   | hembra   | 30    | 33,2       | 2,59       | 29,8           | 39,0           |
+|                |         | macho    | 220   | 38,7       | 2,85       | 30,4           | 49,3           |
+|                | julio   | hembras  | 364   | 31,9       | 2,48       | 23,6           | 41,7           |
+|                |         | macho    | 360   | 39,6       | 4,69       | 26,5           | 50,1           |
+| **C.nailon**   | marzo   | hembra   | 1540  | 28,2       | 2,74       | 19,9           | 34,9           |
+|                |         | macho    | 957   | 27,7       | 2,81       | 17,3           | 35,3           |
+|                | mayo    | hembra   | 302   | 28,6       | 2,91       | 17,0           | 35,4           |
+|                |         | macho    | 198   | 25,1       | 3,54       | 14,9           | 33,3           |
+
+\newpage
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="80%",fig.cap="Talla promedio (LC, mm) de langostino colorado y langostino amarillo por sexo, en el periodo enero 2016 a agosto de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/graf_tallas_2024_agosto.jpg")
+```
+
+\newpage
+
+## 3.2 Aspectos reproductivos
+
+En agosto de 2024, el 86% de las hembras de langostino colorado se encontraban en estado ovígero, manteniéndose por encima del 50% desde el mes de abril. (Fig. 9 y Tabla 3).
+
+##### *Tabla 2. Porcentaje de hembras ovígeras y hembras maduras de langostino colorado y amarillo UPS 2024, y de hembras potadoras e inmaduras de camarón nailon*
+
+| **Recurso**    | **Estado**   | **mar.** | **abr.** | **may.** | **jun.** | **jul.** |**ago.**|**oct.**|
+|-------------|--------- |--------|--------|--------|--------|--------|--------|--------|
+| **L.colorado** | Normal       | 80%       | 27%       | 10%      | 9%        | 9%        |6%|
+|                | Ovígeras     | 20%       | 70%       | 84%      | 82%       | 75%       |86%|
+|                | Madura       | 0%        | 3%        | 6%       | 9%        | 16%       |8%|
+| Total n°       |              | 606       | 2542      | 2588     | 2611      | 3297      |3450|
+| **L.amarillo** | Normal       | 100%      | 100%      | \-       | \-        | 12%       |-|
+|                | Ovígeras     | 0%        | 0%        | \-       | \-        | 87%       |-|
+|                | Madura       | 0%        | 0%        | \-       | \-        | 1%        |-|
+| Total n°       |              | 55        | 30        | \-       | \-        | 364       |-|
+| **C.nailon**   | No portadora | 93%       | \-        | 19%      | \-        | \-        |-|
+|                | Portadora    | 7%        | \-        | 81%      | \-        | \-        |-|
+| Total n°       |              | 1540      | \-        | 302      | \-        | \-        |-|
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%",fig.cap="Comparación de hembras ovígeras de langostino colorado (panel superior) y langostino amarillo (panel inferior), entre los años 2017 a agosto del año 2024",fig.align="center"}
+knitr::include_graphics("Figuras/Ovig_2024_agosto.jpg")
+```
+
+\newpage
+
+## 3.3 Composición de tallas
+
+La comparación de las tallas de langostino colorado no muestra diferencias significativas entre sexos en ambas especies (t-Student, p \> 0,05), la talla media es de 37 mm de longitud cefalotórax (LC) en hembras y 38 mm LC en machos (Tabla 2, Fig. 10).
+
+El análisis de la composición de tallas por zonas de pesca del langostino colorado mostró que las tallas modales más pequeñas se registraron en el caladero de Carranza, mientras que las tallas más grandes se encontraron en Pta. Toro e Iloca (Fig. 11).
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%",fig.cap="Composición de tallas de langostino colorado entre sexos, en agosto de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/frec_colorado_sexo_agosto.jpg")
+```
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="80%",fig.cap="Composición de tallas de langostino colorado en la UPS por zonas de pesca en agosto de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/frec_colorado_zona_agosto.jpg")
+```
+
+\newpage
+
+## 3.4 Relación longitud-peso
+
+Con el objeto de comparar la relación longitud-peso entre machos y hembras de langostino colorado, se utilizó ejemplares que fueron pesados completos, es decir, con todas sus extremidades. El mejor modelo para la relación longitud-peso fue con una intersección fija y diferentes pendientes entre sexos, el peso esperado más alto a una talla determinada se presentó en machos (Fig. 12).
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="60%",fig.cap="Relación longitud-peso de langostino colorado por sexos, en los meses de marzo-agosto 2024",fig.align="center"}
+
+knitr::include_graphics("Figuras/rlp_lcol_agosto_2024.jpg")
+```
+
+\newpage
+
+## 3.4 Fauna acompañante
+
+Las operaciones de pesca realizadas en agosto de 2024  registro la presencia del pejerrata en las capturas solo en un 0.2% con 160 kg, en los caladeros de Nugurue, Itata y la isla Sta. María (Fig. 13). En cuanto a la ocurrencia de otros recursos como fauna acompañante de langostino colorado y amarillo destaca la merluza en la mayoría de los caladeros visitados, con valores que oscilan entre 5 y 100 kg/ha. También se observó la captura de lenguado con rendimentos entre 5 y 15 kg/ha (Fig. 14). Además, se observó la presencia de otros recursos como la Jaiba Paco y Jaiba Limón en la mayoria de los caladeros visitados, pero en menor cantidad (en termino de unidades por hora de arrastre) como se muestra en la Figura 14.
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="80%",fig.cap="Distribución de los lances de pesca con presencia de pejerrata en las capturas de langostino colorado y langostino amarillo, y la fraccion de pejerrata en la captura de agosto 2024",fig.align="center"}
+
+knitr::include_graphics("Figuras/08_pejerrata_agosto_2024.jpeg")
+```
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="80%",fig.cap="Distribución espacial y abundancia de la fauna acompañante en los lances de pesca orientados a langostino colorado y langostino amarillo por la flota arrastrera de Camanchaca Pesca Sur, agosto 2024",fig.align="center"}
+
+knitr::include_graphics("Figuras/08_Fauna_Acompanante_agosto_2024.jpeg")
+```
