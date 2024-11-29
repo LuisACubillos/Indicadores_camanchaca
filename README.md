@@ -8,10 +8,14 @@ Luis Cubillos
 Jefe Proyecto
 
 Asistencia:
-María José Cuevas, MSc.
-Blanca Bustos, MSc.
-Juan Antón Heredia, MSc.
-Germán Vásquez
+
+* María José Cuevas, MSc.
+
+* Blanca Bustos, MSc.
+
+* Juan Antón Heredia, MSc.
+
+* Germán Vásquez, Técnico
 
 
 
