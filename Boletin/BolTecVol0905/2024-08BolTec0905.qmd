@@ -25,6 +25,7 @@ Por otro lado, los indicadores biológicos muestran un leve aumento en las talla
 
 
 # 2 Aspectos Pesqueros 
+
 ## 2.1 Actividad pesquera
 
 Las operaciones de pesca realizadas durante junio cubrieron los caladeros ubicados desde la región del Biobío a la región de Valparaíso, destacando los caladeros de Algarrobo, Pta. Toro, Iloca, Carranza, Nugurue y la Isla Sta. María (Fig. 1).
@@ -33,7 +34,6 @@ Las operaciones de pesca realizadas durante junio cubrieron los caladeros ubicad
 ```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%", fig.cap="Distribución espacial del total de lances de pesca realizados durante julio de 2024",fig.align="center" }
 knitr::include_graphics("Figuras/julio2024.jpeg")
 ```
-
 
 
 ## 2.2 Captura,esfuerzo y rendimientos de pesca
@@ -57,7 +57,7 @@ knitr::include_graphics("Figuras/TORTAS_Julio_2024.jpeg")
 
 Durante julio, las capturas de langostino colorado totalizaron 705 toneladas, con un promedio de 3079 kg por lance de pesca. Se realizaron 495 horas de arrastre (ha), lo que resultó en un rendimiento de pesca de 1424 kg/ha (Tabla 1). En cuanto al langostino amarillo, se registraron 102 lances con una captura total de 125 toneladas y un rendimiento de 606 kg/ha (Tabla 1). Por otro lado, el camarón nailon fue capturado en 10 lances, alcanzando una captura total de 880 kg y un rendimiento de 43 kg/ha.
 
-##### *Tabla 1. Indicadores operacionales de la pesquería de langostino colorado, langostino amarillo y camarón nailon 2024.*
+*Tabla 1. Indicadores operacionales de la pesquería de langostino colorado, langostino amarillo y camarón nailon 2024.*
 
 |**Recurso**|**Mes**|**N° de lances(n)**|**Cap.(kg)**|**Captura por lances(kg/n)**|**h de arrastre(ha)**|**Rend.(kg/ha)**|**Prof. prom. de fondo(m)**| 
 |:--------:|:--------:|:-------:|:-------:|:-------:|:-------:|:------:|:--------:|
@@ -90,12 +90,14 @@ knitr::include_graphics("Figuras/ESF_REND_JUL_2024.png")
 ```{r echo=FALSE,fig.width=4,fig.height=5,out.width="90%",fig.cap="Distribución del rendimiento de pesca (kg/ha) de langostino colorado, langostino amarillo y camarón nailon en julio de 2024",fig.align="center"}
 knitr::include_graphics("Figuras/CPUE_lcol-Lam-julio_2024.jpeg")
 ```
+
 \newpage
 
 
 ```{r echo=FALSE,fig.width=4,fig.height=5,out.width="70%",fig.cap="Rendimiento de pesca (captura por hora de arrastre) de langostino colorado (A), langostino amarillo (B) en los caladeros visitados durante julio 2024",fig.align="center"}
 knitr::include_graphics("Figuras/ren_caladeros_JULIO.jpg")
 ```
+
 \newpage
 
 # 3 Aspectos biológicos
@@ -116,7 +118,7 @@ knitr::include_graphics("Figuras/proporcion_sexual_julio.jpg")
 En cuanto a la talla media, se capturaron ejemplares de langostino colorado con una longitud cefalotórax (LC) promedio que oscila entre 22 y 47 mm, siendo los machos los que presentan las tallas más grandes. Al comparar las tallas medias a lo largo de los años, se observa que en marzo suelen comenzar con valores altos; sin embargo, este año se registraron tallas menores y sin diferenciación sexual. Pero a medida que ha avanzado la temporada de pesca, esta situación ha ido cambiando, y salvo en el mes de junio, las tallas han tendido a aumentar, manteniéndose por encima de los 35 mm LC (Fig. 8, Tabla 2)
 En el langostino amarillo, los machos presentaron una mayor talla, alcanzando aproximadamente 40 mm de longitud cefalotórax (LC). Al comparar las tallas medias a lo largo de los años de captura, se observa que ambos sexos tienden a iniciar la temporada de pesca con tallas pequeñas, para luego experimentar un aumento. Este año, debido a la falta de muestreo biológico en todos los meses, no se dispone de muchos registros; sin embargo, las hembras han mantenido tallas superiores a 30 mm LC y los machos por encima de 38 mm LC (Tabla 2 y Fig. 7).
 
-##### *Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2024*
+*Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2024*
 
 |   |**Mes**|**Sexo**|**n**|**LC(mm)**|**DE(mm)**|**Mínimo(mm)**|**Máximo(mm)**|
 |----|---|----|-|------|------|----------|----------|
@@ -146,13 +148,14 @@ En el langostino amarillo, los machos presentaron una mayor talla, alcanzando ap
 ```{r echo=FALSE,fig.width=4,fig.height=5,out.width="80%",fig.cap="Talla promedio (LC, mm) de langostino colorado y langostino amarillo por sexo, en el periodo enero 2016 a julio de 2024",fig.align="center"}
 knitr::include_graphics("Figuras/GRAFICAS_TALLAS_2024_JULIO.jpg")
 ```
+
 \newpage
 
 ## 3.2 Aspectos reproductivos
 
 En julio de 2024, el 75% de las hembras de langostino colorado se encontraron en estado ovígero, lo que responde al adelanto de su periodo reproductivo en dos meses en comparación con la temporada anterior (Fig. 9 y Tabla 3). Por otro lado, el langostino amarillo mostró un 87% de sus hembras en estado ovígero este mes, sugiriendo que su actividad reproductiva probablemente comenzó en junio, siguiendo la tendencia observada en los últimos cuatro años. Sin embargo, esta afirmación no puede ser corroborada debido a la falta de muestreo biológico desde hace dos meses (Fig. 9 y Tabla 3).
 
-##### *Tabla 2. Porcentaje de hembras ovígeras y hembras maduras de langostino colorado y amarillo UPS 2024, y de hembras potadoras e inmaduras de camarón nailon*
+*Tabla 3. Porcentaje de hembras ovígeras y hembras maduras de langostino colorado y amarillo UPS 2024, y de hembras potadoras e inmaduras de camarón nailon*
 
 |**Recurso**|**Estado**|**marzo**|**abril**|**mayo**|**junio**|**julio**
 |-------|------|-----|-----|---------|----------|
@@ -167,6 +170,7 @@ En julio de 2024, el 75% de las hembras de langostino colorado se encontraron en
 |**C.nailon**|No portadora|93%|-|19%|-|-|
 |           |Portadora|7%|-|81%|-|-|
 |Total n°|  |1540|-|302|-|-|
+
 
 ```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%",fig.cap="Comparación de hembras ovígeras de langostino colorado (panel superior) y langostino amarillo (panel inferior), entre los años 2017 a julio del año 2024",fig.align="center"}
 knitr::include_graphics("Figuras/Ovig_2024_JULIO.jpg")
