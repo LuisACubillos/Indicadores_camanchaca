@@ -5,6 +5,9 @@ format: html
 toc: true
 ---
 
+[Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
+
+
 \newpage
 
 # 1 Resumen
@@ -235,7 +238,7 @@ knitr::include_graphics("Figuras/boxplot_cpue_JAIBAS2023-2024.png")
 ```
 
 
-
+[Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
 
 
 

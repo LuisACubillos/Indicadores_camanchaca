@@ -5,6 +5,7 @@ format: html
 toc: true
 ---
 
+[Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
 
 \newpage
 
@@ -219,7 +220,7 @@ Las operaciones de pesca realizadas en julio de 2024 por la flota de Camanchaca 
 knitr::include_graphics("Figuras/Fauna_Acompañante_julio_2024.jpeg")
 ```
 
-
+[Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
 
 
 

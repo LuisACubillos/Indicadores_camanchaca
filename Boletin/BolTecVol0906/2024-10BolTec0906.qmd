@@ -5,6 +5,8 @@ format: html
 toc: true
 ---
 
+[Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
+
 \newpage
 
 # 1 Resumen
@@ -209,3 +211,6 @@ knitr::include_graphics("Figuras/08_pejerrata_agosto_2024.jpeg")
 
 knitr::include_graphics("Figuras/08_Fauna_Acompanante_agosto_2024.jpeg")
 ```
+
+
+[Vuelve a página incial](https://luisacubillos.github.io/Indicadores_camanchaca/)
