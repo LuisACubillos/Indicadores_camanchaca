@@ -1,0 +1,225 @@
+---
+title: "Indicadores biológico-pesqueros de langostino colorado y langostino amarillo (Julio 2024)"
+author: "Bol.Tec.9(5)|Lab.EPOMAR Udec-Camanchaca S.A."
+format: html
+toc: true
+---
+
+
+\newpage
+
+# 1 Resumen
+
+Durante el mes de julio, las capturas se realizaron desde la región del Biobío a la región de Valparaíso. La pesca se centró en el langostino colorado, con un total de 229 lances que resultaron en una captura total de 705 toneladas. Por otro lado, el langostino amarillo fue registrado en 102 lances totalizando una captura de 125 toneladas; sin embargo, solo el 12% de estas capturas correspondió exclusivamente a esta especie, todas realizadas en el caladero de la isla Santa María. Además, durante este mes se observó la presencia de camarón nailon, que fue capturado en una mezcla junto con langostino colorado y amarillo, abarcando un total de 10 lances y alcanzando un peso  de 880 kg.
+
+En cuanto al rendimiento de pesca en promedio este fue mayor en langostino colorado y se
+presentó en la cuadra de Iloca y Carranza, en el caso de langostino amarillo su mejor
+rendimiento fue en el caladero de Constitución.
+
+En lo que respecta a la proporción sexual, en el langostino colorado se observó una predominancia de hembras, que representaron el 66% de la muestra, de las cuales el 75% se encontraban en estado ovígero. En el caso del langostino amarillo, la proporción entre machos y hembras fue equitativa, con un 87% de las hembras también en estado ovígero. Se confirma un adelanto de dos meses en la actividad reproductiva del langostino colorado en comparación con el año anterior. Además, se ha comenzado a registrar la actividad reproductiva en el langostino amarillo, que probablemente inició el mes pasado, siguiendo el patrón observado en los últimos cuatro años. Sin embargo, este año no se pudo corroborar esta información debido a la falta de muestreo biológico en ese período.
+
+Por otro lado, los indicadores biológicos muestran un leve aumento en las tallas medias del langostino colorado en comparación con el mes anterior, manteniéndose por encima de los 35 mm de longitud cephalotorácica (LC). En el caso del langostino amarillo, las hembras presentan un promedio de aproximadamente 32 mm LC, mientras que los machos se sitúan entre 39 y 40 mm LC.
+
+\newpage
+
+
+# 2 Aspectos Pesqueros 
+## 2.1 Actividad pesquera
+
+Las operaciones de pesca realizadas durante junio cubrieron los caladeros ubicados desde la región del Biobío a la región de Valparaíso, destacando los caladeros de Algarrobo, Pta. Toro, Iloca, Carranza, Nugurue y la Isla Sta. María (Fig. 1).
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%", fig.cap="Distribución espacial del total de lances de pesca realizados durante julio de 2024",fig.align="center" }
+knitr::include_graphics("Figuras/julio2024.jpeg")
+```
+
+
+
+## 2.2 Captura,esfuerzo y rendimientos de pesca
+
+En julio de 2024, las actividades de pesca se centraron en el langostino colorado, que representó el 95 % de los lances realizados. De estos, el 57 % consistió exclusivamente en langostino colorado, mientras que el 12 % correspondió únicamente al langostino amarillo. Además, en el 35 % de las capturas se registró la presencia conjunta de langostino amarillo y colorado, y en un 3 % se capturaron langostinos de ambas especies junto con camaron nailon (Fig. 2). En cuanto a las capturas de estas especies por zonas de pesca en todos los caladeros (exceptuando el del W. de la isla Sta. María), predominó el langostino colorado, y el langostino amarillo se presentó mayormente en el W. de la isla Sta. María y Punta de Gallo, en donde representó entre un 100% y un 55% del total extraído (Fig. 3).
+
+\newpage
+
+```{r echo=FALSE, fig.width=3,fig.height=3,out.width="90%",fig.cap="Distribución espacial de los lances de pesca orientados a langostino colorado, langostino amarillo y camarón nailon durante julio de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/Lcol-lam-cam-julio_2024.jpeg")
+```
+
+\newpage
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="60%",fig.cap="Distribución espacial de la composición de las capturas durante julio de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/TORTAS_Julio_2024.jpeg")
+```
+
+\newpage
+
+Durante julio, las capturas de langostino colorado totalizaron 705 toneladas, con un promedio de 3079 kg por lance de pesca. Se realizaron 495 horas de arrastre (ha), lo que resultó en un rendimiento de pesca de 1424 kg/ha (Tabla 1). En cuanto al langostino amarillo, se registraron 102 lances con una captura total de 125 toneladas y un rendimiento de 606 kg/ha (Tabla 1). Por otro lado, el camarón nailon fue capturado en 10 lances, alcanzando una captura total de 880 kg y un rendimiento de 43 kg/ha.
+
+##### *Tabla 1. Indicadores operacionales de la pesquería de langostino colorado, langostino amarillo y camarón nailon 2024.*
+
+|**Recurso**|**Mes**|**N° de lances(n)**|**Cap.(kg)**|**Captura por lances(kg/n)**|**h de arrastre(ha)**|**Rend.(kg/ha)**|**Prof. prom. de fondo(m)**| 
+|:--------:|:--------:|:-------:|:-------:|:-------:|:-------:|:------:|:--------:|
+|**L.colorado**|marzo|47|107320|2283,4|53,5|2002,8|192|
+|             |abril|276|719014|2605,1|382,5|1879,5|190|
+|             |mayo|250|797434|3190|451|1769|168|
+|             |junio|150|508506|3390|305|1667|163|
+|             |julio|229|705028|3079|495|1424|161|
+|**L.amarillo**|marzo|34|29874|878,6|37,9|787,1|191|
+|              |abril|223|106812|478,9|308,5|346,1|192|
+|              |mayo|101|38540|382|172|223|176|
+|              |junio|68|15422|227|146|106|165|
+|              |julio|102|125646|1232|207|606|168|
+|**Camarón**|marzo|132|143052|1083,7|353,6|404,4|343|
+|           |mayo|30|51236|1708|52|994|317|
+|           |julio|10|880|88|21|43|170|
+
+
+El rendimiento de pesca de langostino colorado fluctúo entre 31 y 3680 kg/ha, con una moda en 1451 kg/ha. En cambio, el esfuerzo de pesca fluctúo entre 28 y 226 minutos, con una mayor frecuencia en 2 horas 11 minutos (Fig. 4). En cuanto a langostino amarillo, presentó un rendimiento entre los 13 y 5348 kg/ha, y el esfuerzo tuvo una mayor frecuencia en 2 horas 5 minutos (Fig. 4).
+
+En cuanto a la distribución espacial del rendimiento de pesca durante el mes de julio, destacaron los caladeros de Algarrobo, Punta Toro, Iloca, Constitución y Carranza, donde las capturas oscilaron entre 2500 y 7500 kg/ha (Fig. 5 y 6). Para el langostino amarillo, los mayores rendimientos se registraron en la cuadra de Constitución y al weste de la isla Santa María, con capturas también entre 2500 y 7500 kg/ha (Fig. 5 y 6). En contraste, el camarón nailon mostró bajos rendimientos, por debajo de los 50 kg/ha, siendo el caladero de Valparaíso el que reportó las mayores capturas (Fig. 5).
+
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="90%",fig.cap="Distribución de frecuencia del esfuerzo de pesa, en términos de duración del lance en horas de arrastre (ha) (A) y del rendimiento de pesca (kg/ha) (B), de langostino colorado, langostino amarillo y camarón nailon en julio de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/ESF_REND_JUL_2024.png")
+```
+
+
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="90%",fig.cap="Distribución del rendimiento de pesca (kg/ha) de langostino colorado, langostino amarillo y camarón nailon en julio de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/CPUE_lcol-Lam-julio_2024.jpeg")
+```
+\newpage
+
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="70%",fig.cap="Rendimiento de pesca (captura por hora de arrastre) de langostino colorado (A), langostino amarillo (B) en los caladeros visitados durante julio 2024",fig.align="center"}
+knitr::include_graphics("Figuras/ren_caladeros_JULIO.jpg")
+```
+\newpage
+
+# 3 Aspectos biológicos
+
+Los indicadores biológicos dicen relación con la talla promedio de machos y hembras, la proporción sexual, la estructura de tallas, el estado de madurez de las hembras ovígeras y la proporción de hembras ovígeras. Los datos fueron obtenidos a partir de muestreos aleatorios diarios de ejemplares capturados en zonas de pesca visitadas por la flota. El tamaño mínimo de muestra fue de 300 ejemplares, a los que se les midió la longitud del cefalotórax utilizando un pie de metro (0,01 mm de precisión). Los ejemplares además fueron pesados (0,01 gramos), indicándose si se trataba de ejemplares completos o incompletos. Se determinó el sexo, y en el caso de las hembras se registraron las hembras portadoras de huevos (ovígeras) y el estado de madurez de los huevos según escala de 4 puntos.
+
+## 3.1 Proporción sexual y talla promedio
+
+En las capturas de julio de 2024, el langostino colorado mostró una proporción sexual favorable hacia las hembras, con un aporte del 66 %. En contraste, el langostino amarillo presentó igual cantidad entre hembras y machos (Fig. 7 y Tabla 2).
+
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="80%",fig.cap="Proporción sexual de langostino colorado (A), langostino amarillo (B) durante marzo a julio 2024",fig.align="center"}
+knitr::include_graphics("Figuras/proporcion_sexual_julio.jpg")
+```
+
+\newpage
+
+En cuanto a la talla media, se capturaron ejemplares de langostino colorado con una longitud cefalotórax (LC) promedio que oscila entre 22 y 47 mm, siendo los machos los que presentan las tallas más grandes. Al comparar las tallas medias a lo largo de los años, se observa que en marzo suelen comenzar con valores altos; sin embargo, este año se registraron tallas menores y sin diferenciación sexual. Pero a medida que ha avanzado la temporada de pesca, esta situación ha ido cambiando, y salvo en el mes de junio, las tallas han tendido a aumentar, manteniéndose por encima de los 35 mm LC (Fig. 8, Tabla 2)
+En el langostino amarillo, los machos presentaron una mayor talla, alcanzando aproximadamente 40 mm de longitud cefalotórax (LC). Al comparar las tallas medias a lo largo de los años de captura, se observa que ambos sexos tienden a iniciar la temporada de pesca con tallas pequeñas, para luego experimentar un aumento. Este año, debido a la falta de muestreo biológico en todos los meses, no se dispone de muchos registros; sin embargo, las hembras han mantenido tallas superiores a 30 mm LC y los machos por encima de 38 mm LC (Tabla 2 y Fig. 7).
+
+##### *Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2024*
+
+|   |**Mes**|**Sexo**|**n**|**LC(mm)**|**DE(mm)**|**Mínimo(mm)**|**Máximo(mm)**|
+|----|---|----|-|------|------|----------|----------|
+|**L.colorado**|marzo|hembra|606|33,4|2,42|27,4|40,3|
+|         |    |macho|386|33,4|2,58|28,2|41,4|
+|        |abril|hembra|2542|35,1|2,43|28,5|46,0|
+|         |     |macho|1928|37,1|3,17|28,8|47,2|
+|         |mayo|hembras|2588|37,1|2,16|29,0|44,7|
+|         |    |macho|1662|39,3|2,67|28,5|46,3|
+|         |junio|hembras|2611|36,2|2,34|28,5|43,0|
+|         |     |macho|1139|36,8|3,14|27,0|44,8|
+|         |julio|hembras|3297|36,7|2,48|22,5|47,3|
+|         |     |macho|1696|38,1|3,00|23,2|46,0|
+|**L.amarillo**|marzo|hembra|55|30,8|2,72|25,4|38,5|
+|         |    |macho|160|38,3|2,92|30,1|48,1|
+|         |abril|hembra|30|33,2|2,59|29,8|39,0|
+|         |    |macho|220|38,7|2,85|30,4|49,3|
+|         |julio|hembras|364|31,9|2,48|23,6|41,7|
+|         |     |macho|360|39,6|4,69|26,5|50,1|
+|**C.nailon**|marzo|hembra|1540|28,2|2,74|19,9|34,9|
+|      |     |macho|957|27,7|2,81|17,3|35,3|
+|           |mayo|hembra|302|28,6|2,91|17,0|35,4|
+|           |   |macho|198|25,1|3,54|14,9|33,3|
+
+\newpage
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="80%",fig.cap="Talla promedio (LC, mm) de langostino colorado y langostino amarillo por sexo, en el periodo enero 2016 a julio de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/GRAFICAS_TALLAS_2024_JULIO.jpg")
+```
+\newpage
+
+## 3.2 Aspectos reproductivos
+
+En julio de 2024, el 75% de las hembras de langostino colorado se encontraron en estado ovígero, lo que responde al adelanto de su periodo reproductivo en dos meses en comparación con la temporada anterior (Fig. 9 y Tabla 3). Por otro lado, el langostino amarillo mostró un 87% de sus hembras en estado ovígero este mes, sugiriendo que su actividad reproductiva probablemente comenzó en junio, siguiendo la tendencia observada en los últimos cuatro años. Sin embargo, esta afirmación no puede ser corroborada debido a la falta de muestreo biológico desde hace dos meses (Fig. 9 y Tabla 3).
+
+##### *Tabla 2. Porcentaje de hembras ovígeras y hembras maduras de langostino colorado y amarillo UPS 2024, y de hembras potadoras e inmaduras de camarón nailon*
+
+|**Recurso**|**Estado**|**marzo**|**abril**|**mayo**|**junio**|**julio**
+|-------|------|-----|-----|---------|----------|
+|**L.colorado**|Normal|80%|27%|10%|9%|9%|
+|          |Ovígeras|20%|70%|84%|82%|75%|
+|          |Madura|0%|3%|6%|9%|16%|
+|Total n°|       |606|2542|2588|2611|3297|
+|**L.amarillo**|Normal|100%|100%|-|-|12%|
+|         |Ovígeras|0%|0%|-|-|87%|
+|         |Madura|0%|0%|-|-|1%|
+|Total n°|        |55|30|-|-|364|
+|**C.nailon**|No portadora|93%|-|19%|-|-|
+|           |Portadora|7%|-|81%|-|-|
+|Total n°|  |1540|-|302|-|-|
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%",fig.cap="Comparación de hembras ovígeras de langostino colorado (panel superior) y langostino amarillo (panel inferior), entre los años 2017 a julio del año 2024",fig.align="center"}
+knitr::include_graphics("Figuras/Ovig_2024_JULIO.jpg")
+```
+
+\newpage
+
+## 3.3 Composición de tallas
+
+La comparación de las tallas de langostino colorado y langostino amarillo revela diferencias significativas entre sexos en ambas especies (t-Student, p < 0,05). En el caso del langostino colorado, la talla media es de 36 mm de longitud cefalotórax (LC) en hembras y 38 mm LC en machos. Para el langostino amarillo, las tallas medias son de 32 mm LC en hembras y 40 mm LC en machos (Tabla 2, Fig. 10).
+
+El análisis de la composición de tallas por zonas de pesca del langostino colorado mostró que las tallas modales más pequeñas se registraron en el caladero de Achira, mientras que las tallas más grandes se encontraron en Valparaíso y Algarrobo (Fig. 11). En cuanto al langostino amarillo, el muestreo biológico se realizó únicamente con muestras provenientes de la isla Santa María y Punta de Toro, destacando esta última zona por presentar las mayores tallas (Fig. 12).
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="80%",fig.cap="Composición de tallas de langostino colorado y langostino amarillo entre sexos, en julio de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/frec_tallas_sexo_julio.jpg")
+```
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="80%",fig.cap="Composición de tallas de langostino colorado en la UPS por zonas de pesca en julio de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/frec_colorado_zona_juLio.jpg")
+```
+
+\newpage
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,fig.cap="Composición de tallas de langostino amarillo en la UPS por zonas de pesca en julio de 2024",fig.align="center"}
+knitr::include_graphics("Figuras/frec_amarillo_zona_julio.jpg")
+```
+
+\newpage
+
+## 3.4 Relación longitud-peso
+
+Con el objeto de comparar la relación longitud-peso entre machos y hembras, se utilizó ejemplares que fueron pesados completos, es decir, con todas sus extremidades. El mejor modelo para la relación longitud-peso fue con una intersección fija y diferentes pendientes entre sexos, el peso esperado más alto a una talla determinada se presentó en machos tanto en langostino colorado como langostino amarillo (Fig. 13).
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="80%",fig.cap="Relación longitud-peso de langostino colorado (A) y  langostino amarillo (B), por sexos, en los meses de marzo-julio 2024",fig.align="center"}
+
+knitr::include_graphics("Figuras/RLP_julio.jpg")
+```
+
+\newpage
+
+## 3.4 Fauna acompañante
+
+Las operaciones de pesca realizadas en julio de 2024 por la flota de Camanchaca Pesca Sur no registraron la presencia del pejerrata en las capturas (Fig. 14). En cuanto a la ocurrencia de otros recursos como fauna acompañante de langostino colorado y amarillo destaca la merluza en la moyoría de los caladeros visitados, con valores que oscilan entre 5 y 100 kg/ha. También se observó la captura de lenguado con rendimentos entre 15 y 25 kg/ha (Fig. 15). Además, se observó la presencia de otros recursos como la Jaiba Paco y Jaiba Limón en la mayoria de los caladeros visitados, pero en menor cantidad (en termino de unidades por hora de arrastre) como se muestra en la Figura 14.
+
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="90%",fig.cap="Distribución espacial y abundancia de la fauna acompañante en los lances de pesca orientados a langostinos colorado y langostinos amarillos por la flota arrastrera de Camanchaca Pesca Sur, julio de 2024",fig.align="center"}
+
+knitr::include_graphics("Figuras/Fauna_Acompañante_julio_2024.jpeg")
+```
+
+
+
+
+
