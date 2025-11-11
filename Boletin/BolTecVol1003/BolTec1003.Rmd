@@ -1,0 +1,202 @@
+---
+title: "Indicadores biológico-pesqueros de langostino colorado, langostino amarillo y camarón nailon, (mayo 2025)"
+author: "Bol.Tec.10(3)|Lab.EPOMAR Udec-Crustáceos Pesca Sur"
+format: html
+toc: true
+---
+
+\newpage
+
+# 1 Resumen
+
+Durante mayo de 2025, las operaciones de pesca se realizaron entre las regiones del Biobío y el Maule, destacándose los caladeros de Iloca, Constitución, Carranza, Achira y el oeste de la isla Sta. María. El esfuerzo pesquero estuvo principalmente dirigido al langostino colorado (98 % de los lances) de los cuales el 53 % correspondio a capturas mixtas junto a langostino amarillo y el 45% fue exclusivo de langostino colorado, y el otro 2% a mezcla con camaron nailon.
+
+Las capturas totales fueron lideradas por el langostino colorado con 792 toneladas y un rendimiento promedio de 1546 kg/ha. El langostino amarillo sumó 55 toneladas con un rendimiento de 196 kg/ha, y el camarón nailon alcanzó 128 kilos siendo capturado solo como fauna acompañante.
+
+En términos biológicos, predominó la proporción de hembras en langostino colorado  (63 %), mientras que en langostino amarillo prevalecieron los machos (71 %).  Las tallas medias de langostino colorado destacaron por comenzar con calibres altos sobre los 37,5 mm longitud del caparazón (LC), valor superior a los registrados en el comienzo de la temporada de pesca de los anteriores, y descender en mayo a tallas medias de 35 mm LC en hembras y a 37 mm LC en machos
+
+En términos reproductivos, el langostino colorado presentó un 90 % de hembras ovígeras, proporción similar a la del año anterior, lo que reafirma el adelanto del ciclo reproductivo. Por su parte, el langostino amarillo mostró un 12 % de hembras ovígeras, fenómeno no observado en temporadas previas, donde la aparición de hembras ovígeras solía comenzar en junio.
+
+Finalmente, destacó la presencia del pejerrata como fauna acompañante, representando aproximadamente un 0,01 % de las capturas totales, además de la alta presencia  de merluza y lenguado con valores entre los 25 y 100 kg/ha.
+
+\newpage
+
+# 2 Aspectos Pesqueros
+
+## 2.1 Actividad pesquera
+
+
+Las operaciones de pesca realizadas durante marzo cubrieron los caladeros ubicados desde la región del Bío-Bío a la región de Maule, destacando los caladeros del oeste Iloca, Constitución, Carranza, Achira y el oeste de la isla Sta. María (Fig. 1). 
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="65%", fig.cap="Distribución espacial del total de lances de pesca realizados durante mayo de 2025",fig.align="center" }
+knitr::include_graphics("Fig_mayo_2025/lances_mayo.jpeg")
+```
+
+\newpage
+## 2.2 Captura,esfuerzo y rendimientos de pesca
+
+Durante mayo de 2025, la actividad pesquera se concentró mayoritariamente en el langostino colorado. El 45 % de los lances se dirigió exclusivamente a esta especie, otro 45 % correspondió a capturas mixtas de langostino colorado y langostino amarillo, mientras que el 2 % restante incluyó capturas conjuntas de ambas especies con camarón nailon (Fig. 2). 
+
+
+
+```{r echo=FALSE, fig.width=3,fig.height=3,out.width="90%",fig.cap=" Distribución espacial de los lances de pesca orientados a langostino colorado, langostino amarillo y camarón nailon durante mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/lances_especie-mayo.jpeg")
+```
+
+
+
+Las capturas por lance de langostino colorado oscilaron entre 2 y 8040 kg, alcanzando un total de 792 toneladas. El promedio fue de 3120 kg por lance, con un esfuerzo total de 512 horas de arrastre (ha) y un rendimiento de pesca de 1546 kg/ha (Tabla 1).En el caso del langostino amarillo, se registraron 138 lances que sumaron un total de 55 toneladas, con un rendimiento de 197 kg/ha (Tabla 1). 
+
+\newpage
+
+##### *Tabla 1. Indicadores operacionales de la pesquería de langostino colorado, langostino amarillo y camarón nailon, mayo 2025.*
+
+|**Recurso**|**Mes**|**N° de lances(n)**|**Cap. (kg)**|**Cap.lances (kg/n)**|**h arrast.(ha)**|**Rend. (kg/ha)**|**Prof.de fondo(m)**| 
+|--------|-------|--------|-------|---------|-------|------|-------|
+|**L.colorado**|marzo|178|492941|2769|233|2118|220|
+|              |abril|267|805486|3017|366|2202|210|
+|              |mayo|254|792701|3121|513|1546|177|
+|**L.amarillo**|marzo|124|102458|826|172|596|225|
+|              |abril|200|89582|448|273|328|215|
+|              |mayo|138|55002|399|280|197|167|
+|**Camarón**|marzo|44|30862|702|87|352|301|
+|           |abril|7|1048|149|7|153|223|
+|           |mayo|8|128|16|13|10|188|
+
+El rendimiento de pesca del langostino colorado varió entre 1 y 4863 kg/ha, con una moda de 1598 kg/ha. El esfuerzo por lance fluctuó entre 15 y 209 minutos, concentrándose mayoritariamente en torno a las 2 horas (Fig. 3). En el caso del langostino amarillo, el rendimiento osciló entre 9 y 5696 kg/ha, también con un esfuerzo predominante cercano a las 2 horas. (Fig. 3). 
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="80%",fig.cap="Distribución de frecuencia del esfuerzo de pesca (en horas de arrastre, A) y del rendimiento (en kg/ha, B), para langostino colorado y langostino amarillo durante mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/esf_rend_mayo.png")
+```
+
+
+En cuanto a la distribución espacial del rendimiento de pesca durante el mes de mayo se destacaron los caladeros de Iloca, Constitución, Carranza con de alto rendimiento de langostino colorado con medias de 2000 kg/ha (Fig. 4, 5). En el caso del langostino amarillo, cuya captura se produjo  en conjunto con langostino colorado, los mayores rendimientos se registraron en las cuadra del oeste de la isla Stanta María, con valores sobre entre 1300-2500 kg/ha (Fig. 4, 5).
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="110%",fig.cap="Distribución del rendimiento de pesca (kg/ha) de langostino colorado, langostino amarillo  en mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/cpue_espec_mayo.jpeg")
+```
+
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="80%",fig.cap="Rendimiento de pesca (captura por hora de arrastre) anual de langostino colorado (A) y langostino amarillo (B) , en los caladeros visitados de en la unidad de pesquería sur, mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/caladeros_mayo.jpg")
+```
+
+\newpage
+# 3 Aspectos biológicos
+
+Los indicadores biológicos incluyen la talla promedio por sexo, proporción sexual, estructura de tallas, estado de madurez de las hembras ovígeras y su proporción en las capturas. Los datos fueron obtenidos a partir de muestreos diarios aleatorios realizados sobre ejemplares capturados en las zonas visitadas por la flota. Se estableció un tamaño mínimo de muestra de 300 ejemplares, midiendo la longitud del cefalótorax con una precisión de 0,01 mm mediante un pie de metro. Además, los individuos fueron pesados (precisión 0,01 g), y se registró si estaban completos o incompletos. Se determinó el sexo de cada ejemplar y, en el caso de las hembras, se consignó la presencia de huevos (estado ovígero) y el grado de madurez de los mismos, según la escala de 4 puntos propuesta por Palma y Arana (1997).
+
+
+## 3.1 Proporción sexual y talla promedio
+
+Durante las capturas de mayo de 2025, el langostino colorado presentó una proporción sexual favorable a las hembras, con un 63 % del total. En contraste, en el langostino amarillo predominó la presencia de machos, alcanzando un 71 % (Fig. 6).
+
+En cuanto a las tallas promedio, el langostino colorado presentó longitudes cefalotorácicas entre 29 y 46 mm, con medias de 37,3 mm en machos y 35,3 mm en hembras. En comparación con temporadas anteriores, las tallas medias al inicio de este año fueron particularmente altas, superando los 37 mm LC. Sin embargo, durante este mes se observó un descenso marcado en las hembras (Fig. 7). En langostino amarillo, los machos alcanzaron tallas promedio de 40,2 mm LC, superiores a las de las hembras (35,4 mm LC) (Tabla 2, Fig. 7).
+
+
+
+##### *Tabla 2. Proporción sexual y talla promedio de langostino colorado, langostino amarillo y camarón nailon en las capturas de la UPS, 2025*
+
+|   |Mes|Sexo|n|LC(mm)|DE(mm)|Min.(mm)|Max.(mm)|
+|----|---|----|-|------|------|----------|----------|
+|**L.colorado**|marzo|hembra|1590|38,2|2,66|24.6|44,7|
+|               |    |macho|1316|37,9|4,09|25,6|46,4|
+|               |abril|hembra|2037|35,2|2,33|22,3|42,6|
+|               |     |macho|2337|37,1|2,36|29,3|44,3|
+|               |mayo|hembra|2422|35,3|1,91|29,4|43,7|
+|               |     |macho|1402|37,3|2,31|29,5|45,8|
+|**L.amarillo**|marzo|hembra|85|33,3|2,61|29,3|40,3|
+|             |    |macho|165|39,7|2,82|30,5|46,7|
+|             |abril|hembra|297|31,4|2,58|19,6|44,6|
+|             |     |macho|1043|37,4|4,38|17,7|51,9|
+|             |mayo|hembra|282|35,4|2,84|25,6|43,5|
+|             |    |macho|682|40,2|4,43|25,2|50,8|
+|**Camarón**|marzo|hembra|164|29,7|2,33|24,8|35,6|
+|           |     |macho|86|29,4|1,39|26,5|32,6|
+
+
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="70%",fig.cap="Proporción sexual de langostino colorado (A) y langostino amarillo (B) durante mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/proporcion_sexual_mayo.jpg")
+```
+
+\newpage
+
+
+```{r echo=FALSE,fig.width=4,fig.height=5,out.width="90%",fig.cap="Talla promedio (LC, mm) de langostino colorado y langostino amarillo por sexo, en el periodo enero 2016 a mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/tallas_mayo.jpg")
+```
+
+\newpage
+
+## 3.2 Aspectos reproductivos
+
+Durante mayo de 2025, el 90 % de las hembras de langostino colorado se encontraron en estado ovígero, proporción similar a la observada en el mismo período del año anterior (Fig. 8, Tabla 3). En el caso del langostino amarillo, se registró un 12 % de hembras ovígeras, lo que marca un cambio respecto a la tendencia histórica, en la que su presencia solía comenzar recién en junio (Tabla 3).
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="50%",fig.cap="Hembras ovígeras de langostino colorado y langostino amarillo durante mayo 2025, en comparacion con la media registrada entre los años 2017 a 2023 (línea verde)",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/madurez_mayo.jpg")
+```
+
+##### *Tabla 3. Porcentaje de hembras ovígeras y hembras maduras de langostino colorado y amarillo UPS 2025.*
+
+| **Recurso**    | **Estado**   | **mar.** |**abr.**|**may.**|
+|----------------|------------ |--------|--------|--------|
+| **L.colorado** | Normal       | 83%   | 21%|7%|  
+|                | Ovígeras     | 16%       |76%|90%|
+|                | Madura       | 1%        |3%| 3%|
+| Total n°       |              | 1590       |2037|2422|
+| **L.amarillo** | Normal       | 100%      | 98%|7%|
+|                | Ovígeras     | 0%        | 2%|12%|
+|                | Madura       | 0%        |0%|1%|
+| Total n°       |              | 85        |297|282|
+
+
+\newpage
+
+## 3.3. Composición de tallas
+
+El análisis de tallas del langostino colorado y del langostino amarillo evidenció diferencias significativas entre sexos (prueba t de Student, p < 0.05). En el caso del langostino colorado, los machos alcanzaron una talla media de 37 mm LC, superior a la de las hembras, que fue de 35 mm LC (Fig. 9). Por su parte, en el langostino amarillo, las hembras registraron una talla media de 35 mm LC, mientras que los machos alcanzaron los 40 mm LC (Tabla 2, Fig. 10).
+
+En cuanto a la composición de tallas por zona de pesca, langostino colorado mostró las tallas modales más pequeñas en el caladero de la isla Santa María, mientras que las tallas más grandes se registraron al oeste de Iloca y Carranza (Fig. 11). Para langostino amarillo en cambio las mayores tallas se presentaron en Constitución y el oeste de la isla Santa María (Fig. 12).
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%",fig.cap=" Composición de tallas de langostino colorado entre sexos, en mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/frec_colorado_sexo_mayo.jpg")
+```
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%",fig.cap=" Composición de tallas de langostino amarillo entre sexos, en mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/frec_amarillo_sexo_mayo.jpg")
+```
+
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="70%",fig.cap="Composición de tallas de langostino colorado en la UPS por zonas de pesca en mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/frec_colorado_zona_mayo.jpg")
+```
+
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="80%",fig.cap="Composición de tallas de langostino amarillo en la UPS por zonas de pesca en mayo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/frec_amarillo_zona_mayo.jpg")
+```
+
+
+\newpage
+## 3.4 Fauna acompañante
+
+Las operaciones de pesca realizadas durante mayo de 2025 por la flota de Crustaceos Pesca Sur evidenciaron la presencia de pejerrata, como fauna acompañante, en las zonas de Nugurue  y el  oeste de Achira (Fig. 13). Esta especie representó solo el 0.01 % del total de las capturas alcanzando un volumen de 50 kg. 
+
+En cuanto a la ocurrencia de otros recursos como fauna acompañante destaca la alta presencia de  merluza y lenguado en la totalidad de caladeros visitados con valores entre los 50 y 100 kg/ha (Fig. 14).
+Tambien hay presencia de otros recursos como la Jaiba Paco y Jaiba Limón pero en menor cantidad (en termino de unidades por hora de arrastre) como se muestra en la Figura 14.
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="80%",fig.cap=" Distribución de los lances de pesca con captura de pejerrata en las capturas de camarón nailon, langostino colorado y langostino amarillo, y la fracción de pejerrata en las capturas totales, de mayo año 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/pejerrata_mayo.jpeg")
+```
+
+
+```{r echo=FALSE, fig.width=4,fig.height=5,out.width="110%",fig.cap=" Distribución espacial y abundancia de la fauna acompañante en los lances de pesca orientados a langostinos colorado y langostinos amarillos por la flota arrastrera de Camanchaca Pesca Sur, marzo de 2025",fig.align="center"}
+knitr::include_graphics("Fig_mayo_2025/fauna_Acomp_mayo.jpeg")
+```
+
+
+
