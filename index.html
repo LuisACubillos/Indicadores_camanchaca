@@ -1487,6 +1487,16 @@ amarillo</h1>
 </div>
 
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document
+    .querySelectorAll('a[href^="https://drive.google.com/"], a[href^="https://www.canva.com/"]')
+    .forEach(function (link) {
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+    });
+});
+</script>
 <div id="presentación" class="section level1">
 <h1>Presentación</h1>
 <p>En este informe se comunican los aspectos biológico-pesqueros de
