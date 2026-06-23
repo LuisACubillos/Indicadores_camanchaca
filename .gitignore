@@ -1,0 +1,15 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Datos sensibles o grandes (si aplica)
+#Datos/*.csv
+
+# Archivos temporales de Quarto/Rmd
+#*_cache/
+#*_files/
