@@ -1,6 +1,6 @@
 ---
 title: "Desempeño operacional e indicadores bio-pesqueros de la pesquería de langostino colorado y langostino amarillo"
-subtitle: "Convenio EPOMAR UdeC – CrustaSur SpA"
+subtitle: "Convenio Lab. EPOMAR UdeC – CrustaSur SpA"
 author: "Luis A. Cubillos (lucubillos@udec.cl)"
 date: ""
 always_allow_html: true
