@@ -1,7 +1,7 @@
 ---
 title: "Indicadores biológico-pesqueros de langostino colorado, langostino amarillo y camarón nailon, junio 2026"
 author: "Bol.Tec. 11(4)|Lab. EPOMAR UdeC-CRUSTASUR"
-format: html
+format: pdf
 toc: true
 ---
 
