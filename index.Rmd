@@ -45,7 +45,7 @@ El acceso a los boletines técnicos y presentación de resultados
 2026 | Marzo  | [Boletín Técnico 11(1)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol1101/BolTec11-01.html)  | [PPT Marzo](https://drive.google.com/drive/folders/1qi23W_5l2raW__yK1qnh08ioUT5gY3cx) | [PDF](https://drive.google.com/drive/folders/1oBUBRmJP0LP2qU6GM-TpcT9m6cxxBpEh)
 2026 | Abril  | [Boletín Técnico 11(2)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol1102/BolTec1102.html) | [PPT Abril](https://drive.google.com/drive/folders/1qi23W_5l2raW__yK1qnh08ioUT5gY3cx) | [PDF](https://drive.google.com/drive/folders/1oBUBRmJP0LP2qU6GM-TpcT9m6cxxBpEh)
 2026 | Mayo   | [Boletín Técnico 11(3)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol1103/BolTec1103.html) | [PPT mayo](https://drive.google.com/drive/folders/1qi23W_5l2raW__yK1qnh08ioUT5gY3cx) | [PDF](https://drive.google.com/drive/folders/1oBUBRmJP0LP2qU6GM-TpcT9m6cxxBpEh)
-
+2026 | Junio   | [Boletín Técnico 11(3)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol1104/BolTec1104.html) | [PPT junio](https://drive.google.com/drive/folders/1qi23W_5l2raW__yK1qnh08ioUT5gY3cx) | [PDF](https://drive.google.com/drive/folders/1oBUBRmJP0LP2qU6GM-TpcT9m6cxxBpEh)
 
 
 # Informe consolidado
@@ -63,21 +63,6 @@ Año   | Informe anuales | Presentación
 2025  | [Informe Consolidado 2025](https://drive.google.com/drive/folders/1TSxSn_bhCaC1l3Yy9FzNTvHrQDo6ATI0) | [Presentación](https://drive.google.com/drive/folders/1-wu8wk9t7-5XulUsCgSKwil1NRuN2PRj)
 
 
-# Boletines año 2024
-
- Año | Mes    | Enlace                | Presentación | PDF
------|--------|-----------------------|--------------|---------
-2024 | Marzo  | [Boletín Técnico 9(1)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0901/Boletin_Tecnico_Vol9-1.html)  | [Canvas PPT Marzo](https://www.canva.com/design/DAGBTNBLLBY/mmckJBRb2x0j4DZdxykgwQ/edit?utm_content=DAGBTNBLLBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-2024 | Abril  | [Boletín Técnico 9(2)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0902/Boletin_Tecnico_Vol9-2.html) | [Canvas PPT Abril](https://www.canva.com/design/DAGEdGE-tN0/fnLEdhuJwZGOvlWAqpBMpA/edit?utm_content=DAGEdGE-tN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-2024 | Mayo   | [Boletín Técnico 9(3)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0903/Boletin_Tecnico_Vol9-3.html) | [Canvas PPT mayo](https://www.canva.com/design/DAGH-zGuC-s/icAxdorOqdsTnH2fR34Oew/edit?utm_content=DAGH-zGuC-s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-2024 | Junio   | [Boletín Técnico 9(4)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0904/Boletin_Tecnico_Vol9-4.html) | [Canvas PPT junio](https://www.canva.com/design/DAGKvzRGOPE/71vS4Glj4WChXzZxpeNtrg/edit?utm_content=DAGKvzRGOPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-2024 | Julio   | [Boletín Técnico 9(5)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0905/2024-08BolTec0905.html) | [Canvas PPT julio](https://www.canva.com/design/DAFqxnLx1_o/50pASPvmEwU7akf3KV9_Zg/edit?utm_content=DAFqxnLx1_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-2024 | Agosto   | [Boletín Técnico 9(6)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0906/2024-10BolTec0906.html) | [Canvas PPT Agosto](https://www.canva.com/design/DAGP_9Qd6u0/1bhXmWttEkyS1TKvT_kxrQ/edit?utm_content=DAGP_9Qd6u0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-2024 | Octubre   | [Boletín Técnico 9(7)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0907/2024-11BolTec0907.html) | [Canvas PPT Octubre](https://www.canva.com/design/DAGVh0dhZqk/R7QXoHRIhX6wFe8aDKgygQ/edit?utm_content=DAGVh0dhZqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-2024 | Noviembre   | [Boletín Técnico 9(8)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0908/2024-12BolTec0908.html) | [Canvas PPT Noviembre](https://www.canva.com/design/DAGYd8X-PrU/hztEyTPUQjdf1XdnMpXDHw/edit?utm_content=DAGYd8X-PrU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-2024 | Diciembre   | [Boletín Técnico 9(9)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0909/2025-01BolTec909.html) | [Canvas PPT Diciembre](https://www.canva.com/design/DAGbbEWijCU/qK0TGEp554FUqkFd7vLWHA/edit?utm_content=DAGbbEWijCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
-
-
 # Boletín Técnico 2025
 
 El acceso a los boletines técnicos y presentación de resultados
@@ -93,6 +78,20 @@ El acceso a los boletines técnicos y presentación de resultados
 2025 | Octubre   | [Boletín Técnico 10(7)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol1007/BolTec1007.html) | [Canvas PPT Octubre](https://www.canva.com/design/DAG4agpu6ZA/KnTgzj1ptxKnN4cGMV4dyw/edit?utm_content=DAG4agpu6ZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/14flMZgvrOFtbpxgH3fr7o1L75AyqgeQT)
 2025 | Noviembre   | [Boletín Técnico 10(8)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol1008/BolTec1008.html) | [Canvas PPT Noviembre](https://www.canva.com/design/DAG4agpu6ZA/KnTgzj1ptxKnN4cGMV4dyw/edit?utm_content=DAG4agpu6ZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/14flMZgvrOFtbpxgH3fr7o1L75AyqgeQT)
 
+
+# Boletín Técnico 2024
+
+ Año | Mes    | Enlace                | Presentación | PDF
+-----|--------|-----------------------|--------------|---------
+2024 | Marzo  | [Boletín Técnico 9(1)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0901/Boletin_Tecnico_Vol9-1.html)  | [Canvas PPT Marzo](https://www.canva.com/design/DAGBTNBLLBY/mmckJBRb2x0j4DZdxykgwQ/edit?utm_content=DAGBTNBLLBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
+2024 | Abril  | [Boletín Técnico 9(2)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0902/Boletin_Tecnico_Vol9-2.html) | [Canvas PPT Abril](https://www.canva.com/design/DAGEdGE-tN0/fnLEdhuJwZGOvlWAqpBMpA/edit?utm_content=DAGEdGE-tN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
+2024 | Mayo   | [Boletín Técnico 9(3)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0903/Boletin_Tecnico_Vol9-3.html) | [Canvas PPT mayo](https://www.canva.com/design/DAGH-zGuC-s/icAxdorOqdsTnH2fR34Oew/edit?utm_content=DAGH-zGuC-s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
+2024 | Junio   | [Boletín Técnico 9(4)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0904/Boletin_Tecnico_Vol9-4.html) | [Canvas PPT junio](https://www.canva.com/design/DAGKvzRGOPE/71vS4Glj4WChXzZxpeNtrg/edit?utm_content=DAGKvzRGOPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
+2024 | Julio   | [Boletín Técnico 9(5)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0905/2024-08BolTec0905.html) | [Canvas PPT julio](https://www.canva.com/design/DAFqxnLx1_o/50pASPvmEwU7akf3KV9_Zg/edit?utm_content=DAFqxnLx1_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
+2024 | Agosto   | [Boletín Técnico 9(6)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0906/2024-10BolTec0906.html) | [Canvas PPT Agosto](https://www.canva.com/design/DAGP_9Qd6u0/1bhXmWttEkyS1TKvT_kxrQ/edit?utm_content=DAGP_9Qd6u0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
+2024 | Octubre   | [Boletín Técnico 9(7)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0907/2024-11BolTec0907.html) | [Canvas PPT Octubre](https://www.canva.com/design/DAGVh0dhZqk/R7QXoHRIhX6wFe8aDKgygQ/edit?utm_content=DAGVh0dhZqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
+2024 | Noviembre   | [Boletín Técnico 9(8)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0908/2024-12BolTec0908.html) | [Canvas PPT Noviembre](https://www.canva.com/design/DAGYd8X-PrU/hztEyTPUQjdf1XdnMpXDHw/edit?utm_content=DAGYd8X-PrU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
+2024 | Diciembre   | [Boletín Técnico 9(9)](https://luisacubillos.github.io/Indicadores_camanchaca/Boletin/BolTecVol0909/2025-01BolTec909.html) | [Canvas PPT Diciembre](https://www.canva.com/design/DAGbbEWijCU/qK0TGEp554FUqkFd7vLWHA/edit?utm_content=DAGbbEWijCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [PDF](https://drive.google.com/drive/folders/1NM8yQhbsiWaJn7vwXfcdmg-LCS6IlZtM)
 
 
 
